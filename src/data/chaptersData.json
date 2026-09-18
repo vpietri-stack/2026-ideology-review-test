@@ -1,0 +1,8343 @@
+[
+  {
+    "chapterId": 1,
+    "title": "第一章 坚定理想信念，为实现中华民族伟大复兴的中国梦而奋斗",
+    "singleQuestions": [
+      {
+        "id": "c1_single_1",
+        "chapterId": 1,
+        "num": 1,
+        "type": "single",
+        "prompt": "理想的本质特征是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "脱离现实的幻想"
+          },
+          {
+            "key": "B",
+            "text": "在实践中形成的、具有实现可能的未来目标"
+          },
+          {
+            "key": "C",
+            "text": "纯粹主观的想象"
+          },
+          {
+            "key": "D",
+            "text": "对过去的回忆重构"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_2",
+        "chapterId": 1,
+        "num": 2,
+        "type": "single",
+        "prompt": "青年时期在理想信念形成中的定位是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人生理想信念确立最零散的时期"
+          },
+          {
+            "key": "B",
+            "text": "理想信念确立最集中、最突出的时期"
+          },
+          {
+            "key": "C",
+            "text": "理想信念趋于稳定的时期"
+          },
+          {
+            "key": "D",
+            "text": "理想信念调整修正的时期"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_3",
+        "chapterId": 1,
+        "num": 3,
+        "type": "single",
+        "prompt": "下列不属于职业理想内涵的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "未来职业领域的选择意向"
+          },
+          {
+            "key": "B",
+            "text": "工作环境的期待向往"
+          },
+          {
+            "key": "C",
+            "text": "职业成就的目标设定"
+          },
+          {
+            "key": "D",
+            "text": "社会地位的阶层跨越"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c1_single_4",
+        "chapterId": 1,
+        "num": 4,
+        "type": "single",
+        "prompt": "信念稳定性特征的核心依据是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "基于情感认同的短期心理状态"
+          },
+          {
+            "key": "B",
+            "text": "经过理智认同和情感支持的持久坚信"
+          },
+          {
+            "key": "C",
+            "text": "随环境变化的灵活调整"
+          },
+          {
+            "key": "D",
+            "text": "对权威思想的盲目接受"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_5",
+        "chapterId": 1,
+        "num": 5,
+        "type": "single",
+        "prompt": "信念是由哪些成分有机融合而成的统一体或“合金”?( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "认识、情感与理想"
+          },
+          {
+            "key": "B",
+            "text": "认识、态度与意志"
+          },
+          {
+            "key": "C",
+            "text": "认识、情感与意志"
+          },
+          {
+            "key": "D",
+            "text": "认知、态度与实践"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c1_single_6",
+        "chapterId": 1,
+        "num": 6,
+        "type": "single",
+        "prompt": "马克思主义最鲜明的政治立场是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "阶级斗争至上的理论立场"
+          },
+          {
+            "key": "B",
+            "text": "人民至上的价值立场"
+          },
+          {
+            "key": "C",
+            "text": "理论创新至上的发展立场"
+          },
+          {
+            "key": "D",
+            "text": "政党利益至上的实践立场"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_7",
+        "chapterId": 1,
+        "num": 7,
+        "type": "single",
+        "prompt": "马克思主义革命性特征的集中体现是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "彻底的批判精神与鲜明的无产阶级立场"
+          },
+          {
+            "key": "B",
+            "text": "对历史传统的全盘否定"
+          },
+          {
+            "key": "C",
+            "text": "理论体系的封闭性建构"
+          },
+          {
+            "key": "D",
+            "text": "脱离实践的抽象理论推演"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_8",
+        "chapterId": 1,
+        "num": 8,
+        "type": "single",
+        "prompt": "马克思主义发展性特征的本质要求是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "理论体系的绝对固化"
+          },
+          {
+            "key": "B",
+            "text": "随时代、实践和科学发展不断更新"
+          },
+          {
+            "key": "C",
+            "text": "对其他思想成果的排斥拒绝"
+          },
+          {
+            "key": "D",
+            "text": "仅适用于特定历史阶段的局限性"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_9",
+        "chapterId": 1,
+        "num": 9,
+        "type": "single",
+        "prompt": "新时代我国社会的主要矛盾是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "阶级矛盾与阶层矛盾交织"
+          },
+          {
+            "key": "B",
+            "text": "人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾"
+          },
+          {
+            "key": "C",
+            "text": "城乡发展差距的持续存在"
+          },
+          {
+            "key": "D",
+            "text": "区域经济发展的不平衡问题"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_10",
+        "chapterId": 1,
+        "num": 10,
+        "type": "single",
+        "prompt": "中国精神的核心构成是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "以爱国主义为核心的民族精神和以改革创新为核心的时代精神"
+          },
+          {
+            "key": "B",
+            "text": "集体主义精神与传统保守思想的结合"
+          },
+          {
+            "key": "C",
+            "text": "个人奋斗精神与自由主义理念的融合"
+          },
+          {
+            "key": "D",
+            "text": "传统文化精神与现代功利思想的冲突"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_11",
+        "chapterId": 1,
+        "num": 11,
+        "type": "single",
+        "prompt": "中国梦的本质内涵是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "国家富强、民族振兴、人民幸福"
+          },
+          {
+            "key": "B",
+            "text": "经济腾飞与科技领先的双重目标"
+          },
+          {
+            "key": "C",
+            "text": "文化繁荣与社会和谐的发展愿景"
+          },
+          {
+            "key": "D",
+            "text": "军事强国与国际主导的战略追求"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_12",
+        "chapterId": 1,
+        "num": 12,
+        "type": "single",
+        "prompt": "实现中国梦的必由之路是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "中国特色社会主义道路"
+          },
+          {
+            "key": "B",
+            "text": "西方资本主义发展道路"
+          },
+          {
+            "key": "C",
+            "text": "传统计划经济发展道路"
+          },
+          {
+            "key": "D",
+            "text": "空想社会主义理论道路"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_13",
+        "chapterId": 1,
+        "num": 13,
+        "type": "single",
+        "prompt": "“五位一体”总体布局中经济建设的定位是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本"
+          },
+          {
+            "key": "B",
+            "text": "保证"
+          },
+          {
+            "key": "C",
+            "text": "灵魂"
+          },
+          {
+            "key": "D",
+            "text": "基础"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_14",
+        "chapterId": 1,
+        "num": 14,
+        "type": "single",
+        "prompt": "“四个全面”战略布局的引领性目标是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "全面建设社会主义现代化国家"
+          },
+          {
+            "key": "B",
+            "text": "全面深化改革"
+          },
+          {
+            "key": "C",
+            "text": "全面依法治国"
+          },
+          {
+            "key": "D",
+            "text": "全面从严治党"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_15",
+        "chapterId": 1,
+        "num": 15,
+        "type": "single",
+        "prompt": "新发展理念中引领发展的第一动力是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "协调"
+          },
+          {
+            "key": "B",
+            "text": "创新"
+          },
+          {
+            "key": "C",
+            "text": "绿色"
+          },
+          {
+            "key": "D",
+            "text": "共享"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_16",
+        "chapterId": 1,
+        "num": 16,
+        "type": "single",
+        "prompt": "“五位一体”总体布局中政治建设的定位是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根 本"
+          },
+          {
+            "key": "B",
+            "text": "保证"
+          },
+          {
+            "key": "C",
+            "text": "灵魂"
+          },
+          {
+            "key": "D",
+            "text": "条件"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_17",
+        "chapterId": 1,
+        "num": 17,
+        "type": "single",
+        "prompt": "“五位一体”总体布局中社会建设的定位是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "基础"
+          },
+          {
+            "key": "B",
+            "text": "条件"
+          },
+          {
+            "key": "C",
+            "text": "灵魂"
+          },
+          {
+            "key": "D",
+            "text": "保证"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_18",
+        "chapterId": 1,
+        "num": 18,
+        "type": "single",
+        "prompt": "“五位一体”总体布局中生态文明建设的定位是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本"
+          },
+          {
+            "key": "B",
+            "text": "保证"
+          },
+          {
+            "key": "C",
+            "text": "基础"
+          },
+          {
+            "key": "D",
+            "text": "灵魂"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c1_single_19",
+        "chapterId": 1,
+        "num": 19,
+        "type": "single",
+        "prompt": "全面依法治国的总目标是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "建设高效法治政府"
+          },
+          {
+            "key": "B",
+            "text": "建设中国特色社会主义法治体系，建设社会主义法治国家"
+          },
+          {
+            "key": "C",
+            "text": "完善中国特色社会主义法律体系"
+          },
+          {
+            "key": "D",
+            "text": "提升司法公信力"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_20",
+        "chapterId": 1,
+        "num": 20,
+        "type": "single",
+        "prompt": "新发展理念中解决发展不平衡问题的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "创新"
+          },
+          {
+            "key": "B",
+            "text": "协调"
+          },
+          {
+            "key": "C",
+            "text": "绿色"
+          },
+          {
+            "key": "D",
+            "text": "共享"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c1_single_21",
+        "chapterId": 1,
+        "num": 21,
+        "type": "single",
+        "prompt": "新发展理念中解决人与自然和谐共生问题的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "绿色"
+          },
+          {
+            "key": "B",
+            "text": "开放"
+          },
+          {
+            "key": "C",
+            "text": "共享"
+          },
+          {
+            "key": "D",
+            "text": "协调"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_22",
+        "chapterId": 1,
+        "num": 22,
+        "type": "single",
+        "prompt": "新发展理念中解决发展内外联动问题的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "开放"
+          },
+          {
+            "key": "B",
+            "text": "创新"
+          },
+          {
+            "key": "C",
+            "text": "协调"
+          },
+          {
+            "key": "D",
+            "text": "共 享"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_23",
+        "chapterId": 1,
+        "num": 23,
+        "type": "single",
+        "prompt": "道路自信的核心内涵是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "对中国特色社会主义道路的坚定认同"
+          },
+          {
+            "key": "B",
+            "text": "对西方发展模式的批判性借鉴"
+          },
+          {
+            "key": "C",
+            "text": "对传统发展道路的固守坚持"
+          },
+          {
+            "key": "D",
+            "text": "对经济增长速度的片面追求"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_24",
+        "chapterId": 1,
+        "num": 24,
+        "type": "single",
+        "prompt": "理论自信的核心对象是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "马克思主义理论尤其是中国特色社会主义理论体系"
+          },
+          {
+            "key": "B",
+            "text": "西方自由主义理论体系"
+          },
+          {
+            "key": "C",
+            "text": "空想社会主义理论成果"
+          },
+          {
+            "key": "D",
+            "text": "中国传统文化理论体系"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c1_single_25",
+        "chapterId": 1,
+        "num": 25,
+        "type": "single",
+        "prompt": "青年确立理想信念时应避免的误区是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "将崇高理想与坚定信念相结合"
+          },
+          {
+            "key": "B",
+            "text": "把个人理想与社会理想相割裂"
+          },
+          {
+            "key": "C",
+            "text": "对不同理想信念进行辨别选择"
+          },
+          {
+            "key": "D",
+            "text": "结合国家发展现实确立目标"
+          }
+        ],
+        "answer": "B"
+      }
+    ],
+    "multiQuestions": [
+      {
+        "id": "c1_multi_1",
+        "chapterId": 1,
+        "num": 1,
+        "type": "multi",
+        "prompt": "理想的特征包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "永恒性"
+          },
+          {
+            "key": "B",
+            "text": "超越性"
+          },
+          {
+            "key": "C",
+            "text": "时代性"
+          },
+          {
+            "key": "D",
+            "text": "实践性"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c1_multi_2",
+        "chapterId": 1,
+        "num": 2,
+        "type": "multi",
+        "prompt": "信念的构成要素包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "认 识"
+          },
+          {
+            "key": "B",
+            "text": "情感"
+          },
+          {
+            "key": "C",
+            "text": "意志"
+          },
+          {
+            "key": "D",
+            "text": "想象"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c1_multi_3",
+        "chapterId": 1,
+        "num": 3,
+        "type": "multi",
+        "prompt": "马克思主义的鲜明特征包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "科学性"
+          },
+          {
+            "key": "B",
+            "text": "革 命 性"
+          },
+          {
+            "key": "C",
+            "text": "实践性"
+          },
+          {
+            "key": "D",
+            "text": "人民性与发展性"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c1_multi_4",
+        "chapterId": 1,
+        "num": 4,
+        "type": "multi",
+        "prompt": "树立中国特色社会主义共同理想信念的要求包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "坚定对中国共产党的信任"
+          },
+          {
+            "key": "B",
+            "text": "坚定走中国特色社会主义道路的信念"
+          },
+          {
+            "key": "C",
+            "text": "坚定个人利益至上的理念"
+          },
+          {
+            "key": "D",
+            "text": "坚定实现中华民族伟大复兴的中国梦的信心"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "id": "c1_multi_5",
+        "chapterId": 1,
+        "num": 5,
+        "type": "multi",
+        "prompt": "实现中国梦的基本要求包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "走中国特色社会主义道路"
+          },
+          {
+            "key": "B",
+            "text": "弘扬中国精神"
+          },
+          {
+            "key": "C",
+            "text": "凝聚中国力量"
+          },
+          {
+            "key": "D",
+            "text": "依赖外部支持"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c1_multi_6",
+        "chapterId": 1,
+        "num": 6,
+        "type": "multi",
+        "prompt": "“五位一体”中各项建设定位正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "经济建设是根本"
+          },
+          {
+            "key": "B",
+            "text": "政治建设是保证"
+          },
+          {
+            "key": "C",
+            "text": "文化建设是灵魂"
+          },
+          {
+            "key": "D",
+            "text": "生态文明建设是基础"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c1_multi_7",
+        "chapterId": 1,
+        "num": 7,
+        "type": "multi",
+        "prompt": "新发展理念解决的问题包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "创新解决发展动力问题"
+          },
+          {
+            "key": "B",
+            "text": "协调解决发展不平衡问题"
+          },
+          {
+            "key": "C",
+            "text": "绿色解决人与自然和谐共生问题"
+          },
+          {
+            "key": "D",
+            "text": "共享解决社会公平正义问题"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c1_multi_8",
+        "chapterId": 1,
+        "num": 8,
+        "type": "multi",
+        "prompt": "中国特色社会主义进入新时代的标志包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "历史性成就与历史性变革"
+          },
+          {
+            "key": "B",
+            "text": "社会主要矛盾变化"
+          },
+          {
+            "key": "C",
+            "text": "新发展理念的提出"
+          },
+          {
+            "key": "D",
+            "text": "经济总量世界第一"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c1_multi_9",
+        "chapterId": 1,
+        "num": 9,
+        "type": "multi",
+        "prompt": "青年确立理想信念时正确的做法有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "盲目追随他人信念"
+          },
+          {
+            "key": "B",
+            "text": "个人理想与社会理想结合"
+          },
+          {
+            "key": "C",
+            "text": "学会辨别和选择不同理想信念"
+          },
+          {
+            "key": "D",
+            "text": "崇高理想与坚定信念结合"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c1_multi_10",
+        "chapterId": 1,
+        "num": 10,
+        "type": "multi",
+        "prompt": "马克思主义的实践性特征体现为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "从实践中来，到实践中去"
+          },
+          {
+            "key": "B",
+            "text": "在实践中接受检验"
+          },
+          {
+            "key": "C",
+            "text": "随实践发展而发展"
+          },
+          {
+            "key": "D",
+            "text": "脱离实践的理论建构"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    ],
+    "judgeQuestions": [
+      {
+        "id": "c1_judge_1",
+        "chapterId": 1,
+        "num": 1,
+        "type": "judge",
+        "prompt": "理想是人们在实践中形成的、具有实现可能的未来目标。",
+        "answer": true
+      },
+      {
+        "id": "c1_judge_2",
+        "chapterId": 1,
+        "num": 2,
+        "type": "judge",
+        "prompt": "马克思主义的革命性集中表现为彻底的批判精神和鲜明的无产阶级立场。",
+        "answer": true
+      },
+      {
+        "id": "c1_judge_3",
+        "chapterId": 1,
+        "num": 3,
+        "type": "judge",
+        "prompt": "实现中国梦必须走中国特色社会主义道路。",
+        "answer": true
+      },
+      {
+        "id": "c1_judge_4",
+        "chapterId": 1,
+        "num": 4,
+        "type": "judge",
+        "prompt": "“五位一体”总体布局中，政治建设是根本。",
+        "answer": false
+      },
+      {
+        "id": "c1_judge_5",
+        "chapterId": 1,
+        "num": 5,
+        "type": "judge",
+        "prompt": "中国精神包括以爱国主义为核心的民族精神和以改革创新为核心的时代精神。",
+        "answer": true
+      },
+      {
+        "id": "c1_judge_6",
+        "chapterId": 1,
+        "num": 6,
+        "type": "judge",
+        "prompt": "道路自信是对中国特色社会主义道路的坚定认同。",
+        "answer": true
+      },
+      {
+        "id": "c1_judge_7",
+        "chapterId": 1,
+        "num": 7,
+        "type": "judge",
+        "prompt": "中国特色社会主义进入新时代，改变了我国仍处于社会主义初级阶段的基本国情。",
+        "answer": false
+      },
+      {
+        "id": "c1_judge_8",
+        "chapterId": 1,
+        "num": 8,
+        "type": "judge",
+        "prompt": "社会政治理想是理想体系中的核心。",
+        "answer": true
+      },
+      {
+        "id": "c1_judge_9",
+        "chapterId": 1,
+        "num": 9,
+        "type": "judge",
+        "prompt": "“四个全面”中具有突破性的关键环节是全面从严治党。",
+        "answer": false
+      },
+      {
+        "id": "c1_judge_10",
+        "chapterId": 1,
+        "num": 10,
+        "type": "judge",
+        "prompt": "实现中国梦必须凝聚中国力量，即全国各族人民大团结的力量。",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "chapterId": 2,
+    "title": "第二章 树立正确的人生观，实现新时代人生价值",
+    "singleQuestions": [
+      {
+        "id": "c2_single_1",
+        "chapterId": 2,
+        "num": 1,
+        "type": "single",
+        "prompt": "下列关于世界观与人生观的关系，表述错误的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "世界观决定人生观"
+          },
+          {
+            "key": "B",
+            "text": "人生观影响世界观的变化"
+          },
+          {
+            "key": "C",
+            "text": "世界观等同于人生观"
+          },
+          {
+            "key": "D",
+            "text": "世界观为人生观提供指导"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_2",
+        "chapterId": 2,
+        "num": 2,
+        "type": "single",
+        "prompt": "下列属于积极进取的人生态度的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "悲观厌世"
+          },
+          {
+            "key": "B",
+            "text": "投机钻营"
+          },
+          {
+            "key": "C",
+            "text": "乐观开拓"
+          },
+          {
+            "key": "D",
+            "text": "得过且过"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_3",
+        "chapterId": 2,
+        "num": 3,
+        "type": "single",
+        "prompt": "评价人生价值的根本尺度是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个人财富积累"
+          },
+          {
+            "key": "B",
+            "text": "社会贡献大小"
+          },
+          {
+            "key": "C",
+            "text": "是否符合社会发展规律"
+          },
+          {
+            "key": "D",
+            "text": "个人声誉高低"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_4",
+        "chapterId": 2,
+        "num": 4,
+        "type": "single",
+        "prompt": "下列不属于人生价值评价方法的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "能力大小与贡献尽力统一"
+          },
+          {
+            "key": "B",
+            "text": "物质贡献与精神贡献统一"
+          },
+          {
+            "key": "C",
+            "text": "个人利益与集体利益统一"
+          },
+          {
+            "key": "D",
+            "text": "动机与效果统一"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_5",
+        "chapterId": 2,
+        "num": 5,
+        "type": "single",
+        "prompt": "个人与社会的关系本质上个是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "利益关系"
+          },
+          {
+            "key": "B",
+            "text": "竞争关系"
+          },
+          {
+            "key": "C",
+            "text": "合作关系"
+          },
+          {
+            "key": "D",
+            "text": "对立关系"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c2_single_6",
+        "chapterId": 2,
+        "num": 6,
+        "type": "single",
+        "prompt": "科学高尚的人生观是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "为个人谋利的人生观"
+          },
+          {
+            "key": "B",
+            "text": "为人民服务的人生观"
+          },
+          {
+            "key": "C",
+            "text": "追求享乐的人生观"
+          },
+          {
+            "key": "D",
+            "text": "功利主义人生观"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_7",
+        "chapterId": 2,
+        "num": 7,
+        "type": "single",
+        "prompt": "为人民服务的人生观建立的基础是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "唯心主义基础"
+          },
+          {
+            "key": "B",
+            "text": "历史唯物主义基础"
+          },
+          {
+            "key": "C",
+            "text": "实用主义基础"
+          },
+          {
+            "key": "D",
+            "text": "个人主义基础"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_8",
+        "chapterId": 2,
+        "num": 8,
+        "type": "single",
+        "prompt": "实现人生价值的根本途径是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会实践"
+          },
+          {
+            "key": "B",
+            "text": "空想规划"
+          },
+          {
+            "key": "C",
+            "text": "家庭支持"
+          },
+          {
+            "key": "D",
+            "text": "学历提升"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c2_single_9",
+        "chapterId": 2,
+        "num": 9,
+        "type": "single",
+        "prompt": "实现人生价值的主观条件是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "坚强的意志品质"
+          },
+          {
+            "key": "B",
+            "text": "优越的家庭环境"
+          },
+          {
+            "key": "C",
+            "text": "社会地位"
+          },
+          {
+            "key": "D",
+            "text": "物质财富"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c2_single_10",
+        "chapterId": 2,
+        "num": 10,
+        "type": "single",
+        "prompt": "劳动在人生价值中的作用是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "价值的源泉"
+          },
+          {
+            "key": "B",
+            "text": "价值的衡量"
+          },
+          {
+            "key": "C",
+            "text": "价值的目标"
+          },
+          {
+            "key": "D",
+            "text": "价值的表象"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c2_single_11",
+        "chapterId": 2,
+        "num": 11,
+        "type": "single",
+        "prompt": "青年的价值取向决定了( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个人前途"
+          },
+          {
+            "key": "B",
+            "text": "家庭命运"
+          },
+          {
+            "key": "C",
+            "text": "未来社会价值取向"
+          },
+          {
+            "key": "D",
+            "text": "职业选择"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_12",
+        "chapterId": 2,
+        "num": 12,
+        "type": "single",
+        "prompt": "下列对“人的本质”的理解正确的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "自然属性是本质属性"
+          },
+          {
+            "key": "B",
+            "text": "社会属性是本质属性"
+          },
+          {
+            "key": "C",
+            "text": "生理属性是本质属性"
+          },
+          {
+            "key": "D",
+            "text": "思想属性是本质属性"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_13",
+        "chapterId": 2,
+        "num": 13,
+        "type": "single",
+        "prompt": "人生观的特点不包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "时代性"
+          },
+          {
+            "key": "B",
+            "text": "阶级性"
+          },
+          {
+            "key": "C",
+            "text": "永恒性"
+          },
+          {
+            "key": "D",
+            "text": "相对的独立性"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_14",
+        "chapterId": 2,
+        "num": 14,
+        "type": "single",
+        "prompt": "人生目的的作用不包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "决定人生道路"
+          },
+          {
+            "key": "B",
+            "text": "决定人生态度"
+          },
+          {
+            "key": "C",
+            "text": "决定人生价值标准"
+          },
+          {
+            "key": "D",
+            "text": "决定人生长度"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c2_single_15",
+        "chapterId": 2,
+        "num": 15,
+        "type": "single",
+        "prompt": "积极进取的人生态度对人生的作用不包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "促进人生目的达成"
+          },
+          {
+            "key": "B",
+            "text": "阻碍人生价值实现"
+          },
+          {
+            "key": "C",
+            "text": "调整人生道路方向"
+          },
+          {
+            "key": "D",
+            "text": "激发奋斗动力"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_16",
+        "chapterId": 2,
+        "num": 16,
+        "type": "single",
+        "prompt": "为人民服务的人生观中，判断人生是非的标准是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个人利益是否满足"
+          },
+          {
+            "key": "B",
+            "text": "是否为了人民的利益"
+          },
+          {
+            "key": "C",
+            "text": "社会地位高低"
+          },
+          {
+            "key": "D",
+            "text": "物质财富多少"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_17",
+        "chapterId": 2,
+        "num": 17,
+        "type": "single",
+        "prompt": "个人与社会的关系是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "绝对对立"
+          },
+          {
+            "key": "B",
+            "text": "完全统一"
+          },
+          {
+            "key": "C",
+            "text": "辩证统一"
+          },
+          {
+            "key": "D",
+            "text": "毫无关联"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_18",
+        "chapterId": 2,
+        "num": 18,
+        "type": "single",
+        "prompt": "人生自我价值的主要表现是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "对社会的贡献"
+          },
+          {
+            "key": "B",
+            "text": "对自身需要的满足"
+          },
+          {
+            "key": "C",
+            "text": "社会对个人的尊重"
+          },
+          {
+            "key": "D",
+            "text": "他人的认可"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_19",
+        "chapterId": 2,
+        "num": 19,
+        "type": "single",
+        "prompt": "下列不属于实现人生价值的主观条件的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会教育环境"
+          },
+          {
+            "key": "B",
+            "text": "树立正确价值目标"
+          },
+          {
+            "key": "C",
+            "text": "提高自身素质"
+          },
+          {
+            "key": "D",
+            "text": "坚强的意志"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c2_single_20",
+        "chapterId": 2,
+        "num": 20,
+        "type": "single",
+        "prompt": "在当今中国，最重要的社会实践是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个人创业"
+          },
+          {
+            "key": "B",
+            "text": "实现中国式现代化"
+          },
+          {
+            "key": "C",
+            "text": "学术研究"
+          },
+          {
+            "key": "D",
+            "text": "职业发展"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_21",
+        "chapterId": 2,
+        "num": 21,
+        "type": "single",
+        "prompt": "下列属于世界观根本观点的内容是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人生意义"
+          },
+          {
+            "key": "B",
+            "text": "整个世界"
+          },
+          {
+            "key": "C",
+            "text": "社会关系"
+          },
+          {
+            "key": "D",
+            "text": "价值判断"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_22",
+        "chapterId": 2,
+        "num": 22,
+        "type": "single",
+        "prompt": "人生观决定一个人的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "外貌形象"
+          },
+          {
+            "key": "B",
+            "text": "做人标准"
+          },
+          {
+            "key": "C",
+            "text": "财富多少"
+          },
+          {
+            "key": "D",
+            "text": "寿命长短"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c2_single_23",
+        "chapterId": 2,
+        "num": 23,
+        "type": "single",
+        "prompt": "人生价值评价中应坚持的标准是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "能力大小与贡献无关"
+          },
+          {
+            "key": "B",
+            "text": "物质贡献优先于精神贡献"
+          },
+          {
+            "key": "C",
+            "text": "完善自身与贡献社会统一"
+          },
+          {
+            "key": "D",
+            "text": "动机与效果无关"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_24",
+        "chapterId": 2,
+        "num": 24,
+        "type": "single",
+        "prompt": "为人民服务中的“人民”指的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "少数人"
+          },
+          {
+            "key": "B",
+            "text": "社会精英"
+          },
+          {
+            "key": "C",
+            "text": "最大多数人"
+          },
+          {
+            "key": "D",
+            "text": "部分社会成员"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c2_single_25",
+        "chapterId": 2,
+        "num": 25,
+        "type": "single",
+        "prompt": "实现人生价值离不开( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "集体的力量"
+          },
+          {
+            "key": "B",
+            "text": "个人的空想"
+          },
+          {
+            "key": "C",
+            "text": "他人的牺牲"
+          },
+          {
+            "key": "D",
+            "text": "偶然的机遇"
+          }
+        ],
+        "answer": "A"
+      }
+    ],
+    "multiQuestions": [
+      {
+        "id": "c2_multi_1",
+        "chapterId": 2,
+        "num": 1,
+        "type": "multi",
+        "prompt": "下列属于人生观基本内容的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人生目的：对“人如何获得财富”的认知"
+          },
+          {
+            "key": "B",
+            "text": "人生态度：在实践中形成的稳定心理倾向"
+          },
+          {
+            "key": "C",
+            "text": "人生价值：个人对社会、他人及自身的作用意义"
+          },
+          {
+            "key": "D",
+            "text": "人生长度：个体生命的时间跨度"
+          }
+        ],
+        "answer": [
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c2_multi_2",
+        "chapterId": 2,
+        "num": 2,
+        "type": "multi",
+        "prompt": "人生目的的作用包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "决定人生道路的方向与行动动力"
+          },
+          {
+            "key": "B",
+            "text": "决定 一 个人的人生态度"
+          },
+          {
+            "key": "C",
+            "text": "决定一个人容貌的美丑与身材的高矮"
+          },
+          {
+            "key": "D",
+            "text": "决定人生价值的评判标准(如奉献或索取)"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "id": "c2_multi_3",
+        "chapterId": 2,
+        "num": 3,
+        "type": "multi",
+        "prompt": "积极进取的人生态度，其特征包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "否定人的主观能动性，认为命运不可改变"
+          },
+          {
+            "key": "B",
+            "text": "以乐观心态面对挫折，勇于开拓创新"
+          },
+          {
+            "key": "C",
+            "text": "对社会缺乏责任感，主张“各人自扫门前雪”"
+          },
+          {
+            "key": "D",
+            "text": "主动为社会做贡献，追求崇高价值目标"
+          }
+        ],
+        "answer": [
+          "B",
+          "D"
+        ]
+      },
+      {
+        "id": "c2_multi_4",
+        "chapterId": 2,
+        "num": 4,
+        "type": "multi",
+        "prompt": "个人与社会的关系表现为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个人是社会的细胞，社会由个人构成"
+          },
+          {
+            "key": "B",
+            "text": "社会发展完全制约个人，个人无法影响社会"
+          },
+          {
+            "key": "C",
+            "text": "两者是辩证统一 的，既有依存也有矛盾"
+          },
+          {
+            "key": "D",
+            "text": "个人利益与社会利益必然对立，无法调和"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "c2_multi_5",
+        "chapterId": 2,
+        "num": 5,
+        "type": "multi",
+        "prompt": "为人民服务的人生观的科学依据包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "建立在唯心主义“英雄创造历史”的理论上"
+          },
+          {
+            "key": "B",
+            "text": "符合历史唯物主义“人民是历史的创造者”的观点"
+          },
+          {
+            "key": "C",
+            "text": "实现了个人与社会的有机统一"
+          },
+          {
+            "key": "D",
+            "text": "是资产阶级为维护统治提出的价值观"
+          }
+        ],
+        "answer": [
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c2_multi_6",
+        "chapterId": 2,
+        "num": 6,
+        "type": "multi",
+        "prompt": "实现人生价值的客观条件包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会历史条件(如经济、政治制度)"
+          },
+          {
+            "key": "B",
+            "text": "个人的思想道德素质与科学文化水平"
+          },
+          {
+            "key": "C",
+            "text": "社会生活环境(如家庭、工作环境)"
+          },
+          {
+            "key": "D",
+            "text": "个人的意志品质与主观能动性"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "c2_multi_7",
+        "chapterId": 2,
+        "num": 7,
+        "type": "multi",
+        "prompt": "劳动在人生价值中的作用包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "劳动是人生社会价值的唯一标志，与自我价值无关"
+          },
+          {
+            "key": "B",
+            "text": "劳动是实现人生价值的基本途径"
+          },
+          {
+            "key": "C",
+            "text": "劳动是人生价值的源泉，包括物质与精神创造"
+          },
+          {
+            "key": "D",
+            "text": "只有体力劳动才是真正创造价值的劳动"
+          }
+        ],
+        "answer": [
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c2_multi_8",
+        "chapterId": 2,
+        "num": 8,
+        "type": "multi",
+        "prompt": "实现人生价值的主观条件包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "树立与社会主导价值目标相一致的人生价值目标"
+          },
+          {
+            "key": "B",
+            "text": "具备优越的家庭经济条件"
+          },
+          {
+            "key": "C",
+            "text": "掌握为人民服务的本领，如专业技能"
+          },
+          {
+            "key": "D",
+            "text": "拥有坚强的意志品质，克服困难"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c2_multi_9",
+        "chapterId": 2,
+        "num": 9,
+        "type": "multi",
+        "prompt": "世界观的内涵包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人们对整个客观世界的根本观点"
+          },
+          {
+            "key": "B",
+            "text": "对人与世界关系的根本态度"
+          },
+          {
+            "key": "C",
+            "text": "回答“思维与存在的关系”问题"
+          },
+          {
+            "key": "D",
+            "text": "仅指对自然现象的看法，与社会无关"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c2_multi_10",
+        "chapterId": 2,
+        "num": 10,
+        "type": "multi",
+        "prompt": "下列关于个人与集体的关系表述，正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "集体由个人组成，个人发展促进集体进步"
+          },
+          {
+            "key": "B",
+            "text": "个人依赖集体，通过集体力量实现价值"
+          },
+          {
+            "key": "C",
+            "text": "集体利益与个人利益完全对立，无法协调"
+          },
+          {
+            "key": "D",
+            "text": "个人与集体相互依存，缺 一 不可"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "judgeQuestions": [
+      {
+        "id": "c2_judge_1",
+        "chapterId": 2,
+        "num": 1,
+        "type": "judge",
+        "prompt": "人的本质属性是自然属性，社会属性受自然属性影响。",
+        "answer": false
+      },
+      {
+        "id": "c2_judge_2",
+        "chapterId": 2,
+        "num": 2,
+        "type": "judge",
+        "prompt": "积极进取的人生态度否定人的主观能动性，主张顺应命运。",
+        "answer": false
+      },
+      {
+        "id": "c2_judge_3",
+        "chapterId": 2,
+        "num": 3,
+        "type": "judge",
+        "prompt": "人生价值包含自我价值与社会价值，两者相互独立、毫无关联。",
+        "answer": false
+      },
+      {
+        "id": "c2_judge_4",
+        "chapterId": 2,
+        "num": 4,
+        "type": "judge",
+        "prompt": "评价人生价值的根本尺度是个人财富积累与社会地位高低。",
+        "answer": false
+      },
+      {
+        "id": "c2_judge_5",
+        "chapterId": 2,
+        "num": 5,
+        "type": "judge",
+        "prompt": "劳动和贡献是社会评价人生价值的基本尺度。",
+        "answer": true
+      },
+      {
+        "id": "c2_judge_6",
+        "chapterId": 2,
+        "num": 6,
+        "type": "judge",
+        "prompt": "个人与社会的关系本质上是竞争关系，两者利益不可调和。",
+        "answer": false
+      },
+      {
+        "id": "c2_judge_7",
+        "chapterId": 2,
+        "num": 7,
+        "type": "judge",
+        "prompt": "树立为人民服务的人生观无须实践，仅靠理论学习即可实现。",
+        "answer": false
+      },
+      {
+        "id": "c2_judge_8",
+        "chapterId": 2,
+        "num": 8,
+        "type": "judge",
+        "prompt": "人生价值的基本特征包括创造性、社会性和崇高性。",
+        "answer": true
+      },
+      {
+        "id": "c2_judge_9",
+        "chapterId": 2,
+        "num": 9,
+        "type": "judge",
+        "prompt": "实现人生价值的客观条件包括社会历史条件和个人意志品质。",
+        "answer": false
+      },
+      {
+        "id": "c2_judge_10",
+        "chapterId": 2,
+        "num": 10,
+        "type": "judge",
+        "prompt": "人生价值评价中应坚持能力大小与贡献尽力相统一，而非仅看贡献绝对值。",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "chapterId": 3,
+    "title": "第三章 加强社会主义道德建设，培育和践行社会主义核心价值观",
+    "singleQuestions": [
+      {
+        "id": "c3_single_1",
+        "chapterId": 3,
+        "num": 1,
+        "type": "single",
+        "prompt": "道德作为一种特殊的社会意识形态，起决定作用的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治制度"
+          },
+          {
+            "key": "B",
+            "text": "文化传统"
+          },
+          {
+            "key": "C",
+            "text": "传统习惯"
+          },
+          {
+            "key": "D",
+            "text": "经济基础"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c3_single_2",
+        "chapterId": 3,
+        "num": 2,
+        "type": "single",
+        "prompt": "道德最突出和最主要的功能是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "认识功能"
+          },
+          {
+            "key": "B",
+            "text": "规范功能"
+          },
+          {
+            "key": "C",
+            "text": "调节功能"
+          },
+          {
+            "key": "D",
+            "text": "沟通功能"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c3_single_3",
+        "chapterId": 3,
+        "num": 3,
+        "type": "single",
+        "prompt": "“公义胜私欲”是中华传统美德的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本要求"
+          },
+          {
+            "key": "B",
+            "text": "基本要求"
+          },
+          {
+            "key": "C",
+            "text": "根本目标"
+          },
+          {
+            "key": "D",
+            "text": "基本目标"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c3_single_4",
+        "chapterId": 3,
+        "num": 4,
+        "type": "single",
+        "prompt": "中国革命道德的重要环节是要求共产党人要( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "清正廉洁，抵制腐败"
+          },
+          {
+            "key": "B",
+            "text": "修身自律，保持节操"
+          },
+          {
+            "key": "C",
+            "text": "公正廉洁，立党为公"
+          },
+          {
+            "key": "D",
+            "text": "修身养性，自立自强"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c3_single_5",
+        "chapterId": 3,
+        "num": 5,
+        "type": "single",
+        "prompt": "社会主义道德建设的核心是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "为人民服务"
+          },
+          {
+            "key": "B",
+            "text": "尊老爱幼"
+          },
+          {
+            "key": "C",
+            "text": "童叟无欺"
+          },
+          {
+            "key": "D",
+            "text": "利己不损人"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c3_single_6",
+        "chapterId": 3,
+        "num": 6,
+        "type": "single",
+        "prompt": "社会主义核心价值体系的灵魂是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "马克思主义指导思想"
+          },
+          {
+            "key": "B",
+            "text": "以爱国主义为核心的民族精神"
+          },
+          {
+            "key": "C",
+            "text": "社会主义荣辱观"
+          },
+          {
+            "key": "D",
+            "text": "中国特色社会主义共同理想"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c3_single_7",
+        "chapterId": 3,
+        "num": 7,
+        "type": "single",
+        "prompt": "社会主义核心价值体系的主题是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "爱国主义"
+          },
+          {
+            "key": "B",
+            "text": "中国特色社会主义共同理想"
+          },
+          {
+            "key": "C",
+            "text": "实现共产主义理想"
+          },
+          {
+            "key": "D",
+            "text": "社会主义荣辱观"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c3_single_8",
+        "chapterId": 3,
+        "num": 8,
+        "type": "single",
+        "prompt": "社会主义核心价值体系的精髓是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "以爱国主义为核心的民族精神和以改革创新为核心的时代精神"
+          },
+          {
+            "key": "B",
+            "text": "马克思主义指导思想"
+          },
+          {
+            "key": "C",
+            "text": "中国特色社会主义共同理想"
+          },
+          {
+            "key": "D",
+            "text": "社会主义荣辱观"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c3_single_9",
+        "chapterId": 3,
+        "num": 9,
+        "type": "single",
+        "prompt": "在社会主义核心价值体系中，解决人们基本行为规范问题的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "时代精神"
+          },
+          {
+            "key": "B",
+            "text": "民族精神"
+          },
+          {
+            "key": "C",
+            "text": "马克思主义指导思想"
+          },
+          {
+            "key": "D",
+            "text": "社会主义荣辱观"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c3_single_10",
+        "chapterId": 3,
+        "num": 10,
+        "type": "single",
+        "prompt": "社会主义核心价值观在国家层面上的概括是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "富强、民主、文明、和谐"
+          },
+          {
+            "key": "B",
+            "text": "自由、平等、公正、法治"
+          },
+          {
+            "key": "C",
+            "text": "爱国、敬业、诚信、友善"
+          },
+          {
+            "key": "D",
+            "text": "自由、平等、博爱、人权"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c3_single_11",
+        "chapterId": 3,
+        "num": 11,
+        "type": "single",
+        "prompt": "社会主义核心价值观在社会层面上的概括是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "富强、民主、文明、和谐"
+          },
+          {
+            "key": "B",
+            "text": "自由、平等、公正、法治"
+          },
+          {
+            "key": "C",
+            "text": "爱国、敬业、诚信、友善"
+          },
+          {
+            "key": "D",
+            "text": "自由、平等、博爱、人权"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c3_single_12",
+        "chapterId": 3,
+        "num": 12,
+        "type": "single",
+        "prompt": "社会主义核心价值观在公民层面上的概括是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "富强、民主、文明、和谐"
+          },
+          {
+            "key": "B",
+            "text": "自由、平等、公正、法治"
+          },
+          {
+            "key": "C",
+            "text": "爱国、敬业、诚信、友善"
+          },
+          {
+            "key": "D",
+            "text": "自由、平等、博爱、人权"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c3_single_13",
+        "chapterId": 3,
+        "num": 13,
+        "type": "single",
+        "prompt": "在社会主义集体主义道德要求中，最高层次的要求是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "无私奉献，一心为公"
+          },
+          {
+            "key": "B",
+            "text": "先公后私，先人后己"
+          },
+          {
+            "key": "C",
+            "text": "公私兼顾，不损公肥私"
+          },
+          {
+            "key": "D",
+            "text": "见利忘义，自私自利"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c3_single_14",
+        "chapterId": 3,
+        "num": 14,
+        "type": "single",
+        "prompt": "在社会主义集体主义的道德要求中，对我国公民最基本的道德要求是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "无私奉献，一心为公"
+          },
+          {
+            "key": "B",
+            "text": "先公后私，先人后己"
+          },
+          {
+            "key": "C",
+            "text": "公私兼顾，不损公肥私"
+          },
+          {
+            "key": "D",
+            "text": "见利忘义，自私自利"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c3_single_15",
+        "chapterId": 3,
+        "num": 15,
+        "type": "single",
+        "prompt": "中华民族身份认同的重要标志是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "中华传统习俗"
+          },
+          {
+            "key": "B",
+            "text": "中国语言文字"
+          },
+          {
+            "key": "C",
+            "text": "中华传统美德"
+          },
+          {
+            "key": "D",
+            "text": "中华传统节日"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c3_single_16",
+        "chapterId": 3,
+        "num": 16,
+        "type": "single",
+        "prompt": "道德调节的形式主要是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "道德标准"
+          },
+          {
+            "key": "B",
+            "text": "社会舆论"
+          },
+          {
+            "key": "C",
+            "text": "道德评价"
+          },
+          {
+            "key": "D",
+            "text": "大众点评"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c3_single_17",
+        "chapterId": 3,
+        "num": 17,
+        "type": "single",
+        "prompt": "道德的根本是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "仁"
+          },
+          {
+            "key": "B",
+            "text": "义"
+          },
+          {
+            "key": "C",
+            "text": "诚"
+          },
+          {
+            "key": "D",
+            "text": "信"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c3_single_18",
+        "chapterId": 3,
+        "num": 18,
+        "type": "single",
+        "prompt": "社会主义社会最起码的社会公德是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "热爱劳动"
+          },
+          {
+            "key": "B",
+            "text": "热爱人民"
+          },
+          {
+            "key": "C",
+            "text": "热爱集体"
+          },
+          {
+            "key": "D",
+            "text": "热爱国家"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c3_single_19",
+        "chapterId": 3,
+        "num": 19,
+        "type": "single",
+        "prompt": "道德调节的主体是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "国家机关"
+          },
+          {
+            "key": "B",
+            "text": "知识分子"
+          },
+          {
+            "key": "C",
+            "text": "统治阶级"
+          },
+          {
+            "key": "D",
+            "text": "社会一切成员"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c3_single_20",
+        "chapterId": 3,
+        "num": 20,
+        "type": "single",
+        "prompt": "社会主义核心价值体系是社会主义意识形态的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本体现"
+          },
+          {
+            "key": "B",
+            "text": "本质体现"
+          },
+          {
+            "key": "C",
+            "text": "实质体现"
+          },
+          {
+            "key": "D",
+            "text": "政治体现"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c3_single_21",
+        "chapterId": 3,
+        "num": 21,
+        "type": "single",
+        "prompt": "培育和践行社会主义核心价值观是提升中华民族和中国人民精神境界的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "力量源泉"
+          },
+          {
+            "key": "B",
+            "text": "精神支撑"
+          },
+          {
+            "key": "C",
+            "text": "政治保证"
+          },
+          {
+            "key": "D",
+            "text": "精神支柱"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c3_single_22",
+        "chapterId": 3,
+        "num": 22,
+        "type": "single",
+        "prompt": "社会主义核心价值观的着眼点是培养担当民族复兴大任的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "时代新人"
+          },
+          {
+            "key": "B",
+            "text": "青年人"
+          },
+          {
+            "key": "C",
+            "text": "党的干部"
+          },
+          {
+            "key": "D",
+            "text": "人民大众"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c3_single_23",
+        "chapterId": 3,
+        "num": 23,
+        "type": "single",
+        "prompt": "爱科学的基本要求不包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "热爱科学、尊重知识和人才"
+          },
+          {
+            "key": "B",
+            "text": "努力学习科学知识"
+          },
+          {
+            "key": "C",
+            "text": "为科学献身"
+          },
+          {
+            "key": "D",
+            "text": "尊重文凭"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c3_single_24",
+        "chapterId": 3,
+        "num": 24,
+        "type": "single",
+        "prompt": "下列不属于中华传统美德的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "注重整体利益"
+          },
+          {
+            "key": "B",
+            "text": "推崇“仁爱”原则"
+          },
+          {
+            "key": "C",
+            "text": "强调个人主义"
+          },
+          {
+            "key": "D",
+            "text": "倡导言行一致"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c3_single_25",
+        "chapterId": 3,
+        "num": 25,
+        "type": "single",
+        "prompt": "加强社会主义道德建设的意义不包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "促进市场经济体制完善"
+          },
+          {
+            "key": "B",
+            "text": "抵御西方腐朽思想"
+          },
+          {
+            "key": "C",
+            "text": "清除封建道德影响"
+          },
+          {
+            "key": "D",
+            "text": "提升国际地位"
+          }
+        ],
+        "answer": "D"
+      }
+    ],
+    "multiQuestions": [
+      {
+        "id": "c3_multi_1",
+        "chapterId": 3,
+        "num": 1,
+        "type": "multi",
+        "prompt": "道德的主要功能包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "认识功能"
+          },
+          {
+            "key": "B",
+            "text": "规范功能"
+          },
+          {
+            "key": "C",
+            "text": "调节功能"
+          },
+          {
+            "key": "D",
+            "text": "教育功能"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c3_multi_2",
+        "chapterId": 3,
+        "num": 2,
+        "type": "multi",
+        "prompt": "继承和弘扬中华传统美德的意义包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "提升国际文化影响力的需要"
+          },
+          {
+            "key": "B",
+            "text": "加强社会主义道德建设的需要"
+          },
+          {
+            "key": "C",
+            "text": "个人健康成长的需要"
+          },
+          {
+            "key": "D",
+            "text": "中国式现代化建设的客观需要"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c3_multi_3",
+        "chapterId": 3,
+        "num": 3,
+        "type": "multi",
+        "prompt": "社会主义道德的基本特征包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "科学性"
+          },
+          {
+            "key": "B",
+            "text": "阶级性"
+          },
+          {
+            "key": "C",
+            "text": "实践性"
+          },
+          {
+            "key": "D",
+            "text": "群众性"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c3_multi_4",
+        "chapterId": 3,
+        "num": 4,
+        "type": "multi",
+        "prompt": "社会主义道德建设的核心是“为人民服务”,其原因包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "反映社会主义社会的经济基础和人际关系的客观要求"
+          },
+          {
+            "key": "B",
+            "text": "集中体现社会主义道德的要求"
+          },
+          {
+            "key": "C",
+            "text": "是社会主义市场经济健康发展的基本要求"
+          },
+          {
+            "key": "D",
+            "text": "是传统道德的继承与发展"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c3_multi_5",
+        "chapterId": 3,
+        "num": 5,
+        "type": "multi",
+        "prompt": "社会主义集体主义原则的基本内涵包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个人利益优先于集体利益"
+          },
+          {
+            "key": "B",
+            "text": "集体利益高于个人利益"
+          },
+          {
+            "key": "C",
+            "text": "重视和保障个人的正当利益"
+          },
+          {
+            "key": "D",
+            "text": "集体利益和个人利益辩证统一"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c3_multi_6",
+        "chapterId": 3,
+        "num": 6,
+        "type": "multi",
+        "prompt": "“五爱”作为社会主义道德建设的基本要求，包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "爱祖国、爱人民"
+          },
+          {
+            "key": "B",
+            "text": "爱劳动、爱科学"
+          },
+          {
+            "key": "C",
+            "text": "爱社会主义"
+          },
+          {
+            "key": "D",
+            "text": "爱集体、爱家庭"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c3_multi_7",
+        "chapterId": 3,
+        "num": 7,
+        "type": "multi",
+        "prompt": "社会主义核心价值体系的基本内容包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "马克思主义指导思想"
+          },
+          {
+            "key": "B",
+            "text": "中国特色社会主义共同理想"
+          },
+          {
+            "key": "C",
+            "text": "以爱国主义为核心的民族精神和以改革创新为核心的时代精神"
+          },
+          {
+            "key": "D",
+            "text": "社会主义荣辱观"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c3_multi_8",
+        "chapterId": 3,
+        "num": 8,
+        "type": "multi",
+        "prompt": "道德调节的特点包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "以善恶为评价标准"
+          },
+          {
+            "key": "B",
+            "text": "通过社会舆论、传统习俗和内心信念维系"
+          },
+          {
+            "key": "C",
+            "text": "调节主体为社会一切成员"
+          },
+          {
+            "key": "D",
+            "text": "目标是使行为从“实然”向“应然”转化"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c3_multi_9",
+        "chapterId": 3,
+        "num": 9,
+        "type": "multi",
+        "prompt": "培育和践行社会主义核心价值观的意义包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "实现中华民族伟大复兴的价值支撑"
+          },
+          {
+            "key": "B",
+            "text": "提升民族精神境界的精神支柱"
+          },
+          {
+            "key": "C",
+            "text": "引领青年人成长成才的基本途径"
+          },
+          {
+            "key": "D",
+            "text": "促进国际文化交流的重要手段"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c3_multi_10",
+        "chapterId": 3,
+        "num": 10,
+        "type": "multi",
+        "prompt": "下列关于道德本质的表述，正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "道德以国家强制力为保障"
+          },
+          {
+            "key": "B",
+            "text": "道德是社会经济关系的反映"
+          },
+          {
+            "key": "C",
+            "text": "道德由经济基础决定"
+          },
+          {
+            "key": "D",
+            "text": "道德属于上层建筑的范畴"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "judgeQuestions": [
+      {
+        "id": "c3_judge_1",
+        "chapterId": 3,
+        "num": 1,
+        "type": "judge",
+        "prompt": "道德属于上层建筑的范畴，是一种特殊的社会意识形态。",
+        "answer": true
+      },
+      {
+        "id": "c3_judge_2",
+        "chapterId": 3,
+        "num": 2,
+        "type": "judge",
+        "prompt": "道德调节的目标是使人们的行为逐步从“应然”向“实然”转化。",
+        "answer": false
+      },
+      {
+        "id": "c3_judge_3",
+        "chapterId": 3,
+        "num": 3,
+        "type": "judge",
+        "prompt": "中国革命道德的重要环节是要求共产党人修身自律，保持节操。",
+        "answer": true
+      },
+      {
+        "id": "c3_judge_4",
+        "chapterId": 3,
+        "num": 4,
+        "type": "judge",
+        "prompt": "社会主义道德建设的原则是以爱国主义为核心。",
+        "answer": false
+      },
+      {
+        "id": "c3_judge_5",
+        "chapterId": 3,
+        "num": 5,
+        "type": "judge",
+        "prompt": "社会主义核心价值观在国家层面的概括是“自由、平等、公正、法治”。",
+        "answer": false
+      },
+      {
+        "id": "c3_judge_6",
+        "chapterId": 3,
+        "num": 6,
+        "type": "judge",
+        "prompt": "爱劳动是社会主义社会最起码的社会公德。",
+        "answer": true
+      },
+      {
+        "id": "c3_judge_7",
+        "chapterId": 3,
+        "num": 7,
+        "type": "judge",
+        "prompt": "中华传统美德中“讲求谦敬礼让，强调克骄防矜”体现了个人修养与处世之道。",
+        "answer": true
+      },
+      {
+        "id": "c3_judge_8",
+        "chapterId": 3,
+        "num": 8,
+        "type": "judge",
+        "prompt": "加强社会主义道德建设是抵御西方腐朽思想文化侵蚀的根本措施。",
+        "answer": true
+      },
+      {
+        "id": "c3_judge_9",
+        "chapterId": 3,
+        "num": 9,
+        "type": "judge",
+        "prompt": "集体主义原则强调集体利益与个人利益的辩证统一。",
+        "answer": true
+      },
+      {
+        "id": "c3_judge_10",
+        "chapterId": 3,
+        "num": 10,
+        "type": "judge",
+        "prompt": "社会主义核心价值体系是国家文化软实力的核心内容。",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "chapterId": 4,
+    "title": "第四章  遵守社会道德规范，注重个人品德修养",
+    "singleQuestions": [
+      {
+        "id": "c4_single_1",
+        "chapterId": 4,
+        "num": 1,
+        "type": "single",
+        "prompt": "下列不属于当代社会公共生活特征的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "活动范围的广泛性"
+          },
+          {
+            "key": "B",
+            "text": "活动内容的封闭性"
+          },
+          {
+            "key": "C",
+            "text": "交往对象的复杂性"
+          },
+          {
+            "key": "D",
+            "text": "活动方式的多样性"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c4_single_2",
+        "chapterId": 4,
+        "num": 2,
+        "type": "single",
+        "prompt": "下列不属于有序的公共生活对社会的重要作用的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会生产活动的重要基础"
+          },
+          {
+            "key": "B",
+            "text": "促进社会和谐的重要条件"
+          },
+          {
+            "key": "C",
+            "text": "提高社会成员生活质量的基本保障"
+          },
+          {
+            "key": "D",
+            "text": "个人利益最大化的关键因素"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c4_single_3",
+        "chapterId": 4,
+        "num": 3,
+        "type": "single",
+        "prompt": "下列属于社会公德主要内容的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "爱岗敬业"
+          },
+          {
+            "key": "B",
+            "text": "尊老爱幼"
+          },
+          {
+            "key": "C",
+            "text": "保护环境"
+          },
+          {
+            "key": "D",
+            "text": "夫妻和睦"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c4_single_4",
+        "chapterId": 4,
+        "num": 4,
+        "type": "single",
+        "prompt": "社会主义职业道德中最高层次的要求是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "爱岗敬业"
+          },
+          {
+            "key": "B",
+            "text": "服务群众"
+          },
+          {
+            "key": "C",
+            "text": "奉献社会"
+          },
+          {
+            "key": "D",
+            "text": "办事公道"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c4_single_5",
+        "chapterId": 4,
+        "num": 5,
+        "type": "single",
+        "prompt": "婚姻家庭关系的本质体现是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "自然属性"
+          },
+          {
+            "key": "B",
+            "text": "社会属性"
+          },
+          {
+            "key": "C",
+            "text": "经济属性"
+          },
+          {
+            "key": "D",
+            "text": "文化属性"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c4_single_6",
+        "chapterId": 4,
+        "num": 6,
+        "type": "single",
+        "prompt": "下列属于道德修养核心目的的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "提高道德实践能力"
+          },
+          {
+            "key": "B",
+            "text": "实现物质利益最大化"
+          },
+          {
+            "key": "C",
+            "text": "获得社会荣誉"
+          },
+          {
+            "key": "D",
+            "text": "提升职业技能"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_7",
+        "chapterId": 4,
+        "num": 7,
+        "type": "single",
+        "prompt": "下列不属于个人品德特征的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "实践性"
+          },
+          {
+            "key": "B",
+            "text": "偶然性"
+          },
+          {
+            "key": "C",
+            "text": "综合性"
+          },
+          {
+            "key": "D",
+            "text": "稳定性"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c4_single_8",
+        "chapterId": 4,
+        "num": 8,
+        "type": "single",
+        "prompt": "下列不属于个人品德作用的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "促进道德和法律作用的发挥"
+          },
+          {
+            "key": "B",
+            "text": "个人实现自我完善的内在根据"
+          },
+          {
+            "key": "C",
+            "text": "社会经济发展的物质基础"
+          },
+          {
+            "key": "D",
+            "text": "经济社会发展进程中重要的主体精神力量"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c4_single_9",
+        "chapterId": 4,
+        "num": 9,
+        "type": "single",
+        "prompt": "下列不属于个人品德养成的方法的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "提高个人道德修养的自觉性"
+          },
+          {
+            "key": "B",
+            "text": "依赖他人监督"
+          },
+          {
+            "key": "C",
+            "text": "自觉地向先进模范人物学习"
+          },
+          {
+            "key": "D",
+            "text": "积极参与社会实践"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c4_single_10",
+        "chapterId": 4,
+        "num": 10,
+        "type": "single",
+        "prompt": "下列属于道德修养方法的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "慎独自律"
+          },
+          {
+            "key": "B",
+            "text": "盲目从众"
+          },
+          {
+            "key": "C",
+            "text": "忽视实践"
+          },
+          {
+            "key": "D",
+            "text": "拒绝学习"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_11",
+        "chapterId": 4,
+        "num": 11,
+        "type": "single",
+        "prompt": "“勿以恶小而为之，勿以善小而不为”体现了道德规范中下列哪项的要求?( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会公德"
+          },
+          {
+            "key": "B",
+            "text": "职业道德"
+          },
+          {
+            "key": "C",
+            "text": "家庭美德"
+          },
+          {
+            "key": "D",
+            "text": "法律规范"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_12",
+        "chapterId": 4,
+        "num": 12,
+        "type": "single",
+        "prompt": "在职业道德中，“诚实守信”被称为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "现代人和从业者成功进入社会和职业殿堂的“准入证”"
+          },
+          {
+            "key": "B",
+            "text": "提升个人物质生活水平的手段"
+          },
+          {
+            "key": "C",
+            "text": "实现职业竞争优势的途径"
+          },
+          {
+            "key": "D",
+            "text": "满足个人兴趣爱好的方式"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_13",
+        "chapterId": 4,
+        "num": 13,
+        "type": "single",
+        "prompt": "家庭美德中“邻里团结”的意义是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "构建和谐社区的重要基础"
+          },
+          {
+            "key": "B",
+            "text": "追求个人名誉的手段"
+          },
+          {
+            "key": "C",
+            "text": "提升职业发展的途径"
+          },
+          {
+            "key": "D",
+            "text": "无关紧要的生活细节"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_14",
+        "chapterId": 4,
+        "num": 14,
+        "type": "single",
+        "prompt": "下列不属于道德素质核心构成的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治素养"
+          },
+          {
+            "key": "B",
+            "text": "道德品质"
+          },
+          {
+            "key": "C",
+            "text": "法律意识"
+          },
+          {
+            "key": "D",
+            "text": "职业技能"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c4_single_15",
+        "chapterId": 4,
+        "num": 15,
+        "type": "single",
+        "prompt": "道德修养方法中的“省察克治”指的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "通过不断反省自我，及时抑制和克服自身的不良念头及行为"
+          },
+          {
+            "key": "B",
+            "text": "盲目跟随他人行为"
+          },
+          {
+            "key": "C",
+            "text": "忽视自身缺点"
+          },
+          {
+            "key": "D",
+            "text": "拒绝接受批评"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_16",
+        "chapterId": 4,
+        "num": 16,
+        "type": "single",
+        "prompt": "公共生活具有鲜明的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "封闭性和隐秘性"
+          },
+          {
+            "key": "B",
+            "text": "开放性和透明性"
+          },
+          {
+            "key": "C",
+            "text": "个体性和独立性"
+          },
+          {
+            "key": "D",
+            "text": "随意性和主观性"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c4_single_17",
+        "chapterId": 4,
+        "num": 17,
+        "type": "single",
+        "prompt": "社会公德中，最基本的要求是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "文明礼貌"
+          },
+          {
+            "key": "B",
+            "text": "助人为乐"
+          },
+          {
+            "key": "C",
+            "text": "遵纪守法"
+          },
+          {
+            "key": "D",
+            "text": "爱护公物"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c4_single_18",
+        "chapterId": 4,
+        "num": 18,
+        "type": "single",
+        "prompt": "职业道德中，“爱岗敬业”的核心是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "对工作的高度责任感和深厚感情"
+          },
+          {
+            "key": "B",
+            "text": "追求高薪待遇"
+          },
+          {
+            "key": "C",
+            "text": "完成最低工作要求"
+          },
+          {
+            "key": "D",
+            "text": "满足个人兴趣"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_19",
+        "chapterId": 4,
+        "num": 19,
+        "type": "single",
+        "prompt": "婚姻家庭关系的自然属性是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "形成和发展的前提条件"
+          },
+          {
+            "key": "B",
+            "text": "本质属性"
+          },
+          {
+            "key": "C",
+            "text": "社会生产的基础"
+          },
+          {
+            "key": "D",
+            "text": "法律规定的义务"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_20",
+        "chapterId": 4,
+        "num": 20,
+        "type": "single",
+        "prompt": "个人品德的形成途径是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "天生具备"
+          },
+          {
+            "key": "B",
+            "text": "通过社会道德教育和个人自觉的道德修养形成"
+          },
+          {
+            "key": "C",
+            "text": "环境影响无作用"
+          },
+          {
+            "key": "D",
+            "text": "依赖他人督促"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c4_single_21",
+        "chapterId": 4,
+        "num": 21,
+        "type": "single",
+        "prompt": "道德修养方法中，“积善成德”强调的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "在日常生活中不断积累善行或美德并强化巩固"
+          },
+          {
+            "key": "B",
+            "text": "只做大事，忽视小事"
+          },
+          {
+            "key": "C",
+            "text": "追求形式，不重实质"
+          },
+          {
+            "key": "D",
+            "text": "拒绝帮助他人"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_22",
+        "chapterId": 4,
+        "num": 22,
+        "type": "single",
+        "prompt": "职业道德中，“表述方式多样性”指的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "不同行业有不同的道德要求表述"
+          },
+          {
+            "key": "B",
+            "text": "道德规范无统一标准"
+          },
+          {
+            "key": "C",
+            "text": "可以随意解释职业道德"
+          },
+          {
+            "key": "D",
+            "text": "职业道德无须明确规范"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_23",
+        "chapterId": 4,
+        "num": 23,
+        "type": "single",
+        "prompt": "家庭美德中，“勤俭持家”的要求是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "盲目消费，追求奢华"
+          },
+          {
+            "key": "B",
+            "text": "勤劳致富且科学合理地安排家庭经济生活"
+          },
+          {
+            "key": "C",
+            "text": "忽视家庭经济管理"
+          },
+          {
+            "key": "D",
+            "text": "只注重物质消费"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c4_single_24",
+        "chapterId": 4,
+        "num": 24,
+        "type": "single",
+        "prompt": "道德修养的实质是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "在社会各种道德体系和道德观念的冲突中，自己与自己“打官司”"
+          },
+          {
+            "key": "B",
+            "text": "社会与个人的矛盾冲突"
+          },
+          {
+            "key": "C",
+            "text": "忽视道德规范的约束冲突中"
+          },
+          {
+            "key": "D",
+            "text": "单纯的理论学习"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c4_single_25",
+        "chapterId": 4,
+        "num": 25,
+        "type": "single",
+        "prompt": "个人品德对社会的作用是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "推动道德和法律作用的发挥"
+          },
+          {
+            "key": "B",
+            "text": "无关社会发展"
+          },
+          {
+            "key": "C",
+            "text": "仅影响个人生活"
+          },
+          {
+            "key": "D",
+            "text": "阻碍社会进步"
+          }
+        ],
+        "answer": "A"
+      }
+    ],
+    "multiQuestions": [
+      {
+        "id": "c4_multi_1",
+        "chapterId": 4,
+        "num": 1,
+        "type": "multi",
+        "prompt": "当代社会公共生活的特征包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "活动范围因网络发展扩展至虚拟世界"
+          },
+          {
+            "key": "B",
+            "text": "活动内容对社会成员公开透明"
+          },
+          {
+            "key": "C",
+            "text": "交往对象突破熟人圈呈现复杂性"
+          },
+          {
+            "key": "D",
+            "text": "活动方式随社会发展日益多样化"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c4_multi_2",
+        "chapterId": 4,
+        "num": 2,
+        "type": "multi",
+        "prompt": "社会公德涵盖的关系范畴包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人与人之间的交往伦理"
+          },
+          {
+            "key": "B",
+            "text": "人与社会的责任义务"
+          },
+          {
+            "key": "C",
+            "text": "人与自然的生态保护"
+          },
+          {
+            "key": "D",
+            "text": "人与职业的道德规范"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c4_multi_3",
+        "chapterId": 4,
+        "num": 3,
+        "type": "multi",
+        "prompt": "自觉遵守社会公德的要求包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "仅在他人监督下规范自身行为"
+          },
+          {
+            "key": "B",
+            "text": "在实践中培养主动维护公德的意识"
+          },
+          {
+            "key": "C",
+            "text": "通过小事积累提升公德践行能力"
+          },
+          {
+            "key": "D",
+            "text": "系统学习公共生活中的有关法律和社会公德基本规范"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c4_multi_4",
+        "chapterId": 4,
+        "num": 4,
+        "type": "multi",
+        "prompt": "职业道德的特征包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "适用范围受职业责任限制的有限性"
+          },
+          {
+            "key": "B",
+            "text": "职业传统与规范的历史继承性"
+          },
+          {
+            "key": "C",
+            "text": "不同行业表述方式的多样性"
+          },
+          {
+            "key": "D",
+            "text": "部分规范具有法治背景下的强制性"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c4_multi_5",
+        "chapterId": 4,
+        "num": 5,
+        "type": "multi",
+        "prompt": "婚姻家庭关系的属性包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "以生理因素为前提的自然属性"
+          },
+          {
+            "key": "B",
+            "text": "由社会生产关系决定的社会属性"
+          },
+          {
+            "key": "C",
+            "text": "以经济利益为核心的功利属性"
+          },
+          {
+            "key": "D",
+            "text": "由法律强制规定的约束属性"
+          }
+        ],
+        "answer": [
+          "A",
+          "B"
+        ]
+      },
+      {
+        "id": "c4_multi_6",
+        "chapterId": 4,
+        "num": 6,
+        "type": "multi",
+        "prompt": "家庭美德的内容包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "尊老爱幼：赡养老人与教育子女的责任"
+          },
+          {
+            "key": "B",
+            "text": "男女平等：夫妻权利与人格地位的平等"
+          },
+          {
+            "key": "C",
+            "text": "勤俭持家：科学安排家庭经济生活"
+          },
+          {
+            "key": "D",
+            "text": "遵纪守法：社会公德的最基本要求"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c4_multi_7",
+        "chapterId": 4,
+        "num": 7,
+        "type": "multi",
+        "prompt": "加强道德修养的目的包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "提升思想道德认知水平与判断能力"
+          },
+          {
+            "key": "B",
+            "text": "激发向善的道德意愿与情感"
+          },
+          {
+            "key": "C",
+            "text": "培育正确的道德责任意识"
+          },
+          {
+            "key": "D",
+            "text": "提高自觉践行道德的能力"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c4_multi_8",
+        "chapterId": 4,
+        "num": 8,
+        "type": "multi",
+        "prompt": "个人品德的作用体现在( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "促进社会道德与法律作用的发挥"
+          },
+          {
+            "key": "B",
+            "text": "作为个人自我完善的内在依据"
+          },
+          {
+            "key": "C",
+            "text": "构成经济社会发展进程中重要的主体精神力量"
+          },
+          {
+            "key": "D",
+            "text": "直接决定物质生活水平的高低"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c4_multi_9",
+        "chapterId": 4,
+        "num": 9,
+        "type": "multi",
+        "prompt": "下列属于道德修养方法的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "盲目从众：跟随他人行为，无须自省"
+          },
+          {
+            "key": "B",
+            "text": "积善成德：不断积累善行或美德"
+          },
+          {
+            "key": "C",
+            "text": "知行统一：将道德认知转化为行为"
+          },
+          {
+            "key": "D",
+            "text": "学思并重：学习与思考结合，明辨善恶"
+          }
+        ],
+        "answer": [
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c4_multi_10",
+        "chapterId": 4,
+        "num": 10,
+        "type": "multi",
+        "prompt": "弘扬家庭美德对社会的重要性体现在( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "促进家庭和睦与亲人相亲相爱"
+          },
+          {
+            "key": "B",
+            "text": "保障下一代健康成长与赡养老年人"
+          },
+          {
+            "key": "C",
+            "text": "为社会和谐提供基础支撑"
+          },
+          {
+            "key": "D",
+            "text": "与社会文明进步无直接关联"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    ],
+    "judgeQuestions": [
+      {
+        "id": "c4_judge_1",
+        "chapterId": 4,
+        "num": 1,
+        "type": "judge",
+        "prompt": "公共生活具有鲜明的封闭性和隐秘性。",
+        "answer": false
+      },
+      {
+        "id": "c4_judge_2",
+        "chapterId": 4,
+        "num": 2,
+        "type": "judge",
+        "prompt": "当代社会公共生活的特征包括活动范围的广泛性和交往对象的复杂性。",
+        "answer": true
+      },
+      {
+        "id": "c4_judge_3",
+        "chapterId": 4,
+        "num": 3,
+        "type": "judge",
+        "prompt": "社会公德的主要内容包括文明礼貌、助人为乐、爱护公物、保护环境、遵纪守法。",
+        "answer": true
+      },
+      {
+        "id": "c4_judge_4",
+        "chapterId": 4,
+        "num": 4,
+        "type": "judge",
+        "prompt": "自觉遵守社会公德只需培养意识，无须实践。",
+        "answer": false
+      },
+      {
+        "id": "c4_judge_5",
+        "chapterId": 4,
+        "num": 5,
+        "type": "judge",
+        "prompt": "职业道德的基本规范包括爱岗敬业、诚实守信、办事公道、服务群众、奉献社会。",
+        "answer": true
+      },
+      {
+        "id": "c4_judge_6",
+        "chapterId": 4,
+        "num": 6,
+        "type": "judge",
+        "prompt": "奉献社会是社会主义职业道德的最高层次要求。",
+        "answer": true
+      },
+      {
+        "id": "c4_judge_7",
+        "chapterId": 4,
+        "num": 7,
+        "type": "judge",
+        "prompt": "家庭美德的主要内容包括尊老爱幼、男女平等、夫妻和睦、勤俭持家、邻里团结。",
+        "answer": true
+      },
+      {
+        "id": "c4_judge_8",
+        "chapterId": 4,
+        "num": 8,
+        "type": "judge",
+        "prompt": "“慎独自律”是指在无人监督时仍坚守道德操守。",
+        "answer": true
+      },
+      {
+        "id": "c4_judge_9",
+        "chapterId": 4,
+        "num": 9,
+        "type": "judge",
+        "prompt": "家庭美德中，“男女平等”仅指夫妻权利平等。",
+        "answer": false
+      },
+      {
+        "id": "c4_judge_10",
+        "chapterId": 4,
+        "num": 10,
+        "type": "judge",
+        "prompt": "弘扬家庭美德对社会和谐无直接影响。",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "chapterId": 5,
+    "title": "第五章  法学基础理论",
+    "singleQuestions": [
+      {
+        "id": "c5_single_1",
+        "chapterId": 5,
+        "num": 1,
+        "type": "single",
+        "prompt": "国家机关赋予某些既存社会规范以法律效力，或赋予先前的判例以法律效力的活 动是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "认可"
+          },
+          {
+            "key": "B",
+            "text": "承认"
+          },
+          {
+            "key": "C",
+            "text": "加入"
+          },
+          {
+            "key": "D",
+            "text": "制定"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c5_single_2",
+        "chapterId": 5,
+        "num": 2,
+        "type": "single",
+        "prompt": "法律上的权利和义务具有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "相关性"
+          },
+          {
+            "key": "B",
+            "text": "相反性"
+          },
+          {
+            "key": "C",
+            "text": "一致性"
+          },
+          {
+            "key": "D",
+            "text": "差异性"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_3",
+        "chapterId": 5,
+        "num": 3,
+        "type": "single",
+        "prompt": "法律体现的意志是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个别统治者的意志"
+          },
+          {
+            "key": "B",
+            "text": "多数统治者的共同意志"
+          },
+          {
+            "key": "C",
+            "text": "统治者个人意志的简单相加"
+          },
+          {
+            "key": "D",
+            "text": "统治阶级的整体意志或共同意志"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c5_single_4",
+        "chapterId": 5,
+        "num": 4,
+        "type": "single",
+        "prompt": "下列不属于我国社会主义法律的规范作用的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "指引作用"
+          },
+          {
+            "key": "B",
+            "text": "说服作用"
+          },
+          {
+            "key": "C",
+            "text": "评价作用"
+          },
+          {
+            "key": "D",
+            "text": "预测作用"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c5_single_5",
+        "chapterId": 5,
+        "num": 5,
+        "type": "single",
+        "prompt": "有立法权的国家机关按照法定职权和程序制定规范性法律文件的活动是( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "法律渊源"
+          },
+          {
+            "key": "B",
+            "text": "法律遵守"
+          },
+          {
+            "key": "C",
+            "text": "法律制定"
+          },
+          {
+            "key": "D",
+            "text": "法律实施"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_6",
+        "chapterId": 5,
+        "num": 6,
+        "type": "single",
+        "prompt": "一个国家全部现行法律规范在分类组合为不同法律部门的基础上构成的有机联系 的统一整体是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "法律制度"
+          },
+          {
+            "key": "B",
+            "text": "法律渊源"
+          },
+          {
+            "key": "C",
+            "text": "法律部门"
+          },
+          {
+            "key": "D",
+            "text": "法律体系"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c5_single_7",
+        "chapterId": 5,
+        "num": 7,
+        "type": "single",
+        "prompt": "国家司法机关及其公职人员按照法定职权和程序适用法律规范处理具体案件的专 门活动是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "法律实施"
+          },
+          {
+            "key": "B",
+            "text": "法律制定"
+          },
+          {
+            "key": "C",
+            "text": "法律适用"
+          },
+          {
+            "key": "D",
+            "text": "法律遵守"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_8",
+        "chapterId": 5,
+        "num": 8,
+        "type": "single",
+        "prompt": "我国法律适用的基本要求包括正确、合法、及时、合理和( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人 权"
+          },
+          {
+            "key": "B",
+            "text": "民主"
+          },
+          {
+            "key": "C",
+            "text": "公正"
+          },
+          {
+            "key": "D",
+            "text": "诚 信"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_9",
+        "chapterId": 5,
+        "num": 9,
+        "type": "single",
+        "prompt": "我国法律适用的基本原则之一是公民在适用法律上( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "应该平等"
+          },
+          {
+            "key": "B",
+            "text": "一律平等"
+          },
+          {
+            "key": "C",
+            "text": "应该公开"
+          },
+          {
+            "key": "D",
+            "text": "一律公开"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c5_single_10",
+        "chapterId": 5,
+        "num": 10,
+        "type": "single",
+        "prompt": "在我国，守法的主体是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "一切国家机关和武装力量"
+          },
+          {
+            "key": "B",
+            "text": "各政党和各社会团体"
+          },
+          {
+            "key": "C",
+            "text": "各企业事业组织"
+          },
+          {
+            "key": "D",
+            "text": "一切组织和个人"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c5_single_11",
+        "chapterId": 5,
+        "num": 11,
+        "type": "single",
+        "prompt": "实施了违法行为的自然人和法人或社会组织是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "违法行为的客体"
+          },
+          {
+            "key": "B",
+            "text": "违法行为的客观方面"
+          },
+          {
+            "key": "C",
+            "text": "违法行为的主体"
+          },
+          {
+            "key": "D",
+            "text": "违法行为的主观方面"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_12",
+        "chapterId": 5,
+        "num": 12,
+        "type": "single",
+        "prompt": "违法行为人在主观上有过错是违法行为的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主观方面"
+          },
+          {
+            "key": "B",
+            "text": "主体"
+          },
+          {
+            "key": "C",
+            "text": "客观方面"
+          },
+          {
+            "key": "D",
+            "text": "客体"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c5_single_13",
+        "chapterId": 5,
+        "num": 13,
+        "type": "single",
+        "prompt": "违法行为的客体是指被违法行为所侵害的而为我国法律所保护的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "公共安全"
+          },
+          {
+            "key": "B",
+            "text": "国家和个人财产"
+          },
+          {
+            "key": "C",
+            "text": "公民利益"
+          },
+          {
+            "key": "D",
+            "text": "社会关系和社会秩序"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c5_single_14",
+        "chapterId": 5,
+        "num": 14,
+        "type": "single",
+        "prompt": "必须对社会造成一定危害的行为，即行为具有社会危害性是违法行为的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主观方面"
+          },
+          {
+            "key": "B",
+            "text": "主体"
+          },
+          {
+            "key": "C",
+            "text": "客观方面"
+          },
+          {
+            "key": "D",
+            "text": "客体"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_15",
+        "chapterId": 5,
+        "num": 15,
+        "type": "single",
+        "prompt": "社会主义民主是社会主义法制的前提和( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主观方面"
+          },
+          {
+            "key": "B",
+            "text": "保 障"
+          },
+          {
+            "key": "C",
+            "text": "体现"
+          },
+          {
+            "key": "D",
+            "text": "基础"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c5_single_16",
+        "chapterId": 5,
+        "num": 16,
+        "type": "single",
+        "prompt": "人民当家作主和依法治国的根本保证是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义道路"
+          },
+          {
+            "key": "B",
+            "text": "社会主义制度"
+          },
+          {
+            "key": "C",
+            "text": "党的领导"
+          },
+          {
+            "key": "D",
+            "text": "人民代表大会制度"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_17",
+        "chapterId": 5,
+        "num": 17,
+        "type": "single",
+        "prompt": "社会主义民主政治的本质要求是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "党的领导"
+          },
+          {
+            "key": "B",
+            "text": "人民当家作主"
+          },
+          {
+            "key": "C",
+            "text": "依法治国"
+          },
+          {
+            "key": "D",
+            "text": "社会主义制度"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c5_single_18",
+        "chapterId": 5,
+        "num": 18,
+        "type": "single",
+        "prompt": "党领导人民治理国家的基本方略是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "站稳人民立场"
+          },
+          {
+            "key": "B",
+            "text": "以经济建设为中心"
+          },
+          {
+            "key": "C",
+            "text": "社会主义现代化"
+          },
+          {
+            "key": "D",
+            "text": "依法治国"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c5_single_19",
+        "chapterId": 5,
+        "num": 19,
+        "type": "single",
+        "prompt": "法治表示一种理性的办事原则，任何社会组织和个人必须( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "遵守法制"
+          },
+          {
+            "key": "B",
+            "text": "依法办事"
+          },
+          {
+            "key": "C",
+            "text": "崇尚平等"
+          },
+          {
+            "key": "D",
+            "text": "讲求程序"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c5_single_20",
+        "chapterId": 5,
+        "num": 20,
+        "type": "single",
+        "prompt": "建设中国特色社会主义法治体系，建设社会主义法治国家是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "国家发展的总要求"
+          },
+          {
+            "key": "B",
+            "text": "社会和谐的保障"
+          },
+          {
+            "key": "C",
+            "text": "全面依法治国的总目标"
+          },
+          {
+            "key": "D",
+            "text": "中国特色社会主义的发展目标"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_21",
+        "chapterId": 5,
+        "num": 21,
+        "type": "single",
+        "prompt": "中国特色社会主义法治道路本质上是中国特色社会主义道路在法治领域 的 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "具体体现"
+          },
+          {
+            "key": "B",
+            "text": "集中体现"
+          },
+          {
+            "key": "C",
+            "text": "综合体现"
+          },
+          {
+            "key": "D",
+            "text": "统一体现"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c5_single_22",
+        "chapterId": 5,
+        "num": 22,
+        "type": "single",
+        "prompt": "坚持依法治国首先要坚持( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "依章治国"
+          },
+          {
+            "key": "B",
+            "text": "依德治国"
+          },
+          {
+            "key": "C",
+            "text": "依宪治国"
+          },
+          {
+            "key": "D",
+            "text": "依习惯治国"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_23",
+        "chapterId": 5,
+        "num": 23,
+        "type": "single",
+        "prompt": "法治是国家治理体系和治理能力的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "集中体现"
+          },
+          {
+            "key": "B",
+            "text": "基本方式"
+          },
+          {
+            "key": "C",
+            "text": "显著优势"
+          },
+          {
+            "key": "D",
+            "text": "重要依托"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c5_single_24",
+        "chapterId": 5,
+        "num": 24,
+        "type": "single",
+        "prompt": "坚持依法治国、依法执政、依法行政共同推进，坚持法治国家、法治政府、法治社会( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "共同建设"
+          },
+          {
+            "key": "B",
+            "text": "同步推进"
+          },
+          {
+            "key": "C",
+            "text": "一体建设"
+          },
+          {
+            "key": "D",
+            "text": "一体推进"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c5_single_25",
+        "chapterId": 5,
+        "num": 25,
+        "type": "single",
+        "prompt": "全面依法治国要统筹国内法治和( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "涉外法治"
+          },
+          {
+            "key": "B",
+            "text": "境外法治"
+          },
+          {
+            "key": "C",
+            "text": "国际法治"
+          },
+          {
+            "key": "D",
+            "text": "国际规则"
+          }
+        ],
+        "answer": "A"
+      }
+    ],
+    "multiQuestions": [
+      {
+        "id": "c5_multi_1",
+        "chapterId": 5,
+        "num": 1,
+        "type": "multi",
+        "prompt": "法律发展史上曾先后产生过的法律制度类型有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "奴隶制法律"
+          },
+          {
+            "key": "B",
+            "text": "封建制法律"
+          },
+          {
+            "key": "C",
+            "text": "资本主义法律"
+          },
+          {
+            "key": "D",
+            "text": "社会主义法律"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c5_multi_2",
+        "chapterId": 5,
+        "num": 2,
+        "type": "multi",
+        "prompt": "法律的基本特征包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "法律是调整社会关系的行为规范"
+          },
+          {
+            "key": "B",
+            "text": "法律是由国家制定或认可的行为规范"
+          },
+          {
+            "key": "C",
+            "text": "法律是规定权利和义务的社会规范"
+          },
+          {
+            "key": "D",
+            "text": "法律是由国家强制力保证实施的社会规范"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c5_multi_3",
+        "chapterId": 5,
+        "num": 3,
+        "type": "multi",
+        "prompt": "我国社会主义法律的特点有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "阶级性和人民性的统一"
+          },
+          {
+            "key": "B",
+            "text": "科学性和公正性的统一"
+          },
+          {
+            "key": "C",
+            "text": "权利和义务的统 一"
+          },
+          {
+            "key": "D",
+            "text": "国家强制力和人民自觉遵守的统一"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c5_multi_4",
+        "chapterId": 5,
+        "num": 4,
+        "type": "multi",
+        "prompt": "我国社会主义法律的社会作用包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "确立和维护人民民主专政的国家制度"
+          },
+          {
+            "key": "B",
+            "text": "确立和维护社会主义的经济制度"
+          },
+          {
+            "key": "C",
+            "text": "确立和维护和谐稳定的社会秩序"
+          },
+          {
+            "key": "D",
+            "text": "推动社会改革与进步"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c5_multi_5",
+        "chapterId": 5,
+        "num": 5,
+        "type": "multi",
+        "prompt": "全国人民代表大会的立法程序包括的环节有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "法律案的提出"
+          },
+          {
+            "key": "B",
+            "text": "法律案的审议"
+          },
+          {
+            "key": "C",
+            "text": "法律案的表决"
+          },
+          {
+            "key": "D",
+            "text": "法律的公布"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c5_multi_6",
+        "chapterId": 5,
+        "num": 6,
+        "type": "multi",
+        "prompt": "下列关于法律的实施，说法正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义法律的实施是指社会主义法律在社会生活中的具体运用和实现"
+          },
+          {
+            "key": "B",
+            "text": "法律的实施方式包括法律适用和法律遵守"
+          },
+          {
+            "key": "C",
+            "text": "法律适用包括立法活动、执法活动和司法活动"
+          },
+          {
+            "key": "D",
+            "text": "我国的司法机关包括公安机关、检察机关和审判机关"
+          }
+        ],
+        "answer": [
+          "A",
+          "B"
+        ]
+      },
+      {
+        "id": "c5_multi_7",
+        "chapterId": 5,
+        "num": 7,
+        "type": "multi",
+        "prompt": "按照违法行为的性质和危害程度，法律责任一般分为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "民事法律责任"
+          },
+          {
+            "key": "B",
+            "text": "行政法律责任"
+          },
+          {
+            "key": "C",
+            "text": "刑事法律责任"
+          },
+          {
+            "key": "D",
+            "text": "违宪责任"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c5_multi_8",
+        "chapterId": 5,
+        "num": 8,
+        "type": "multi",
+        "prompt": "下列关于犯罪的说法，正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "犯罪危害统治阶级利益和统治秩序"
+          },
+          {
+            "key": "B",
+            "text": "刑法尚未规定但社会危害性较大的行为也是犯罪"
+          },
+          {
+            "key": "C",
+            "text": "犯罪是严重的违法行为"
+          },
+          {
+            "key": "D",
+            "text": "违法不一定犯罪"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c5_multi_9",
+        "chapterId": 5,
+        "num": 9,
+        "type": "multi",
+        "prompt": "中国特色社会主义法治体系包括完备的法律规范体系和( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "高效的法治实施体系"
+          },
+          {
+            "key": "B",
+            "text": "严密的法治监督体系"
+          },
+          {
+            "key": "C",
+            "text": "有力的法治保障体系"
+          },
+          {
+            "key": "D",
+            "text": "完善的党内法规体系"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c5_multi_10",
+        "chapterId": 5,
+        "num": 10,
+        "type": "multi",
+        "prompt": "全面依法治国的总目标要实现( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "科学立法"
+          },
+          {
+            "key": "B",
+            "text": "严格执法"
+          },
+          {
+            "key": "C",
+            "text": "公正司法"
+          },
+          {
+            "key": "D",
+            "text": "全民守法"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "judgeQuestions": [
+      {
+        "id": "c5_judge_1",
+        "chapterId": 5,
+        "num": 1,
+        "type": "judge",
+        "prompt": "法律一开始就以成文法的形式存在。",
+        "answer": false
+      },
+      {
+        "id": "c5_judge_2",
+        "chapterId": 5,
+        "num": 2,
+        "type": "judge",
+        "prompt": "法律是人作为一个社会成员应该遵守的较高的社会规范。",
+        "answer": false
+      },
+      {
+        "id": "c5_judge_3",
+        "chapterId": 5,
+        "num": 3,
+        "type": "judge",
+        "prompt": "我国社会主义法律的制定要结合我国国情，汲取和借鉴外国法律创制的经验。",
+        "answer": true
+      },
+      {
+        "id": "c5_judge_4",
+        "chapterId": 5,
+        "num": 4,
+        "type": "judge",
+        "prompt": "中国特色社会主义法律体系包括法律、行政法规、地方性法规三个层次。",
+        "answer": true
+      },
+      {
+        "id": "c5_judge_5",
+        "chapterId": 5,
+        "num": 5,
+        "type": "judge",
+        "prompt": "仅有思想意识活动，没有危害社会的行为也会构成违法。",
+        "answer": false
+      },
+      {
+        "id": "c5_judge_6",
+        "chapterId": 5,
+        "num": 6,
+        "type": "judge",
+        "prompt": "法治的真正实现，需要公民对法律至高无上的神圣性、权威性的情感认同。",
+        "answer": true
+      },
+      {
+        "id": "c5_judge_7",
+        "chapterId": 5,
+        "num": 7,
+        "type": "judge",
+        "prompt": "全面依法治国最广泛、最深厚的基础是人民。",
+        "answer": true
+      },
+      {
+        "id": "c5_judge_8",
+        "chapterId": 5,
+        "num": 8,
+        "type": "judge",
+        "prompt": "党领导人民制定宪法法律，领导人民实施宪法法律，党自身不需要在宪法法律范围内活动。",
+        "answer": false
+      },
+      {
+        "id": "c5_judge_9",
+        "chapterId": 5,
+        "num": 9,
+        "type": "judge",
+        "prompt": "中国特色社会主义法治体系是推进全面依法治国的总抓手。",
+        "answer": true
+      },
+      {
+        "id": "c5_judge_10",
+        "chapterId": 5,
+        "num": 10,
+        "type": "judge",
+        "prompt": "全面依法治国要坚持抓住法治专门队伍这个“关键少数”。",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "chapterId": 6,
+    "title": "第六章  宪  法",
+    "singleQuestions": [
+      {
+        "id": "c6_single_1",
+        "chapterId": 6,
+        "num": 1,
+        "type": "single",
+        "prompt": "宪法是治国安邦的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "总纲"
+          },
+          {
+            "key": "B",
+            "text": "总纲领"
+          },
+          {
+            "key": "C",
+            "text": "总 章"
+          },
+          {
+            "key": "D",
+            "text": "总章程"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c6_single_2",
+        "chapterId": 6,
+        "num": 2,
+        "type": "single",
+        "prompt": "我国现行的《中华人民共和国宪法》的颁布时间是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "1978 年"
+          },
+          {
+            "key": "B",
+            "text": "1980 年"
+          },
+          {
+            "key": "C",
+            "text": "1982 年"
+          },
+          {
+            "key": "D",
+            "text": "1988年"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c6_single_3",
+        "chapterId": 6,
+        "num": 3,
+        "type": "single",
+        "prompt": "现行宪法制定和实施以来，以修正案的形式修改了( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "两次"
+          },
+          {
+            "key": "B",
+            "text": "三次"
+          },
+          {
+            "key": "C",
+            "text": "四次"
+          },
+          {
+            "key": "D",
+            "text": "五次"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c6_single_4",
+        "chapterId": 6,
+        "num": 4,
+        "type": "single",
+        "prompt": "未被剥夺政治权利的中华人民共和国公民，享有选举权和被选举权的年龄 是 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "年满十六周岁"
+          },
+          {
+            "key": "B",
+            "text": "年满十八周岁"
+          },
+          {
+            "key": "C",
+            "text": "年满二十周岁"
+          },
+          {
+            "key": "D",
+            "text": "年满二十二周岁"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c6_single_5",
+        "chapterId": 6,
+        "num": 5,
+        "type": "single",
+        "prompt": "由于国家机关和国家工作人员侵犯公民的权利而受到损失的人，有依照法律规定 取得赔偿的权利，这项权利叫作( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "控告权"
+          },
+          {
+            "key": "B",
+            "text": "申诉权"
+          },
+          {
+            "key": "C",
+            "text": "取得赔偿权"
+          },
+          {
+            "key": "D",
+            "text": "批评建议权"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c6_single_6",
+        "chapterId": 6,
+        "num": 6,
+        "type": "single",
+        "prompt": "社会经济权是指公民在哪方面享有的权利?( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "私有财产保护"
+          },
+          {
+            "key": "B",
+            "text": "经济交往自由"
+          },
+          {
+            "key": "C",
+            "text": "物质奖励"
+          },
+          {
+            "key": "D",
+            "text": "经济生活和物质利益"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c6_single_7",
+        "chapterId": 6,
+        "num": 7,
+        "type": "single",
+        "prompt": "中华人民共和国公民在年老、疾病或者丧失劳动能力的情况下，有从国家和社会 获得( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "赠送财物的权利"
+          },
+          {
+            "key": "B",
+            "text": "物质帮助的权利"
+          },
+          {
+            "key": "C",
+            "text": "救济的权利"
+          },
+          {
+            "key": "D",
+            "text": "扶养的权利"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c6_single_8",
+        "chapterId": 6,
+        "num": 8,
+        "type": "single",
+        "prompt": "公民必须遵守宪法和法律，保守国家秘密，爱护公共财产，遵守劳动纪律，遵守 公共秩序，尊重( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "道德"
+          },
+          {
+            "key": "B",
+            "text": "社会习俗"
+          },
+          {
+            "key": "C",
+            "text": "规章制度"
+          },
+          {
+            "key": "D",
+            "text": "社会公德"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c6_single_9",
+        "chapterId": 6,
+        "num": 9,
+        "type": "single",
+        "prompt": "中华人民共和国公民的义务是维护祖国的安全、荣誉和( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主权"
+          },
+          {
+            "key": "B",
+            "text": "统一"
+          },
+          {
+            "key": "C",
+            "text": "利益"
+          },
+          {
+            "key": "D",
+            "text": "权 益"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c6_single_10",
+        "chapterId": 6,
+        "num": 10,
+        "type": "single",
+        "prompt": "中华人民共和国的根本制度是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义制度"
+          },
+          {
+            "key": "B",
+            "text": "无产阶级专政制度"
+          },
+          {
+            "key": "C",
+            "text": "人民民主专政制度"
+          },
+          {
+            "key": "D",
+            "text": "人民代表大会制度"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c6_single_11",
+        "chapterId": 6,
+        "num": 11,
+        "type": "single",
+        "prompt": "人民民主专政的重要保障是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人民民主专政制度"
+          },
+          {
+            "key": "B",
+            "text": "人民代表大会制度"
+          },
+          {
+            "key": "C",
+            "text": "爱国统一战线"
+          },
+          {
+            "key": "D",
+            "text": "政治协商制度"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c6_single_12",
+        "chapterId": 6,
+        "num": 12,
+        "type": "single",
+        "prompt": "我国的根本政治制度是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "社会主义制度"
+          },
+          {
+            "key": "B",
+            "text": "无产阶级专政制度"
+          },
+          {
+            "key": "C",
+            "text": "人民民主专政制度"
+          },
+          {
+            "key": "D",
+            "text": "人民代表大会制度"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c6_single_13",
+        "chapterId": 6,
+        "num": 13,
+        "type": "single",
+        "prompt": "中国共产党领导的多党合作和政治协商制度是我国的一项( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根本政治制度"
+          },
+          {
+            "key": "B",
+            "text": "基本政治制度"
+          },
+          {
+            "key": "C",
+            "text": "根本协商制度"
+          },
+          {
+            "key": "D",
+            "text": "基本协商制度"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c6_single_14",
+        "chapterId": 6,
+        "num": 14,
+        "type": "single",
+        "prompt": "中华人民共和国的社会主义经济制度的基础是生产资料的社会主义公有制，即全民所有制和( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个体经济"
+          },
+          {
+            "key": "B",
+            "text": "私营经济"
+          },
+          {
+            "key": "C",
+            "text": "劳动群众集体所有制"
+          },
+          {
+            "key": "D",
+            "text": "外资企业"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c6_single_15",
+        "chapterId": 6,
+        "num": 15,
+        "type": "single",
+        "prompt": "下列土地属于国家所有的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "城市"
+          },
+          {
+            "key": "B",
+            "text": "城郊"
+          },
+          {
+            "key": "C",
+            "text": "农 村"
+          },
+          {
+            "key": "D",
+            "text": "自留山"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c6_single_16",
+        "chapterId": 6,
+        "num": 16,
+        "type": "single",
+        "prompt": "一个国家采取何种形式来划分国家的内部区域，调整整体和部分之间、中央机关 和地方机关之间的相互关系是指( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "国家制度形式"
+          },
+          {
+            "key": "B",
+            "text": "国家结构形式"
+          },
+          {
+            "key": "C",
+            "text": "国家央地关系"
+          },
+          {
+            "key": "D",
+            "text": "国家行政区划"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c6_single_17",
+        "chapterId": 6,
+        "num": 17,
+        "type": "single",
+        "prompt": "我国一般行政区划实行几级基本层次划分的体制?( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "一级"
+          },
+          {
+            "key": "B",
+            "text": "二级"
+          },
+          {
+            "key": "C",
+            "text": "三级"
+          },
+          {
+            "key": "D",
+            "text": "四级"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c6_single_18",
+        "chapterId": 6,
+        "num": 18,
+        "type": "single",
+        "prompt": "全国人民代表大会是我国最高的国家权力机关，每届任期( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "三年"
+          },
+          {
+            "key": "B",
+            "text": "四 年"
+          },
+          {
+            "key": "C",
+            "text": "两年"
+          },
+          {
+            "key": "D",
+            "text": "五年"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c6_single_19",
+        "chapterId": 6,
+        "num": 19,
+        "type": "single",
+        "prompt": "全国人民代表大会的代表，省 、自治区、直辖市、设区的市、自治州的人民代表大会的代表，其选举方式是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "选民直接选举"
+          },
+          {
+            "key": "B",
+            "text": "下一级人民代表大会选举"
+          },
+          {
+            "key": "C",
+            "text": "全国人民选举"
+          },
+          {
+            "key": "D",
+            "text": "民主党派选举"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c6_single_20",
+        "chapterId": 6,
+        "num": 20,
+        "type": "single",
+        "prompt": "不设区的市、市辖区、县、自治县、乡、民族乡、镇的人民代表大会的代表，所 采用的选举方式是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "选民直接选举"
+          },
+          {
+            "key": "B",
+            "text": "下一级人民代表大会选举"
+          },
+          {
+            "key": "C",
+            "text": "全国人民选举"
+          },
+          {
+            "key": "D",
+            "text": "民主党派选举"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c6_single_21",
+        "chapterId": 6,
+        "num": 21,
+        "type": "single",
+        "prompt": "全国人民代表大会常务委员会是全国人民代表大会的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "议事机关"
+          },
+          {
+            "key": "B",
+            "text": "协调机关"
+          },
+          {
+            "key": "C",
+            "text": "常设机关"
+          },
+          {
+            "key": "D",
+            "text": "执行机关"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c6_single_22",
+        "chapterId": 6,
+        "num": 22,
+        "type": "single",
+        "prompt": "有选举权和被选举权的中华人民共和国公民可以被选为中华人民共和国主席、副 主席的年龄是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "年满三十五周岁"
+          },
+          {
+            "key": "B",
+            "text": "年满四十周岁"
+          },
+          {
+            "key": "C",
+            "text": "年满四十五周岁"
+          },
+          {
+            "key": "D",
+            "text": "年满五十周岁"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c6_single_23",
+        "chapterId": 6,
+        "num": 23,
+        "type": "single",
+        "prompt": "地方各级人民代表大会每届任期( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "三 年"
+          },
+          {
+            "key": "B",
+            "text": "四年"
+          },
+          {
+            "key": "C",
+            "text": "两年"
+          },
+          {
+            "key": "D",
+            "text": "五年"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c6_single_24",
+        "chapterId": 6,
+        "num": 24,
+        "type": "single",
+        "prompt": "监察委员会是国家的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "法律监督机关"
+          },
+          {
+            "key": "B",
+            "text": "监察机关"
+          },
+          {
+            "key": "C",
+            "text": "权力机关"
+          },
+          {
+            "key": "D",
+            "text": "审判机关"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c6_single_25",
+        "chapterId": 6,
+        "num": 25,
+        "type": "single",
+        "prompt": "人民检察院是国家的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "审判机关"
+          },
+          {
+            "key": "B",
+            "text": "权力机关"
+          },
+          {
+            "key": "C",
+            "text": "法律监督机关"
+          },
+          {
+            "key": "D",
+            "text": "行政机关"
+          }
+        ],
+        "answer": "C"
+      }
+    ],
+    "multiQuestions": [
+      {
+        "id": "c6_multi_1",
+        "chapterId": 6,
+        "num": 1,
+        "type": "multi",
+        "prompt": "我国宪法的特征是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "宪法内容的根本性"
+          },
+          {
+            "key": "B",
+            "text": "宪法效力的最高性"
+          },
+          {
+            "key": "C",
+            "text": "宪法条款的规范性"
+          },
+          {
+            "key": "D",
+            "text": "宪法制定和修改程序的严格性"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "id": "c6_multi_2",
+        "chapterId": 6,
+        "num": 2,
+        "type": "multi",
+        "prompt": "政治权利和自由主要包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "选举权和被选举权"
+          },
+          {
+            "key": "B",
+            "text": "宗教信仰自由"
+          },
+          {
+            "key": "C",
+            "text": "政治自由"
+          },
+          {
+            "key": "D",
+            "text": "平等权"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "c6_multi_3",
+        "chapterId": 6,
+        "num": 3,
+        "type": "multi",
+        "prompt": "人身自由权主要包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "公民的人身自由不受侵犯"
+          },
+          {
+            "key": "B",
+            "text": "公民的人格尊严不受侵犯"
+          },
+          {
+            "key": "C",
+            "text": "公民的住宅不受侵犯"
+          },
+          {
+            "key": "D",
+            "text": "公民的通信自由和通信秘密受法律保护"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c6_multi_4",
+        "chapterId": 6,
+        "num": 4,
+        "type": "multi",
+        "prompt": "关于我国公民的基本义务，下列说法正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "公民有维护国家统一和民族团结的义务"
+          },
+          {
+            "key": "B",
+            "text": "公民有保守国家秘密的义务"
+          },
+          {
+            "key": "C",
+            "text": "公民有保卫祖国的义务"
+          },
+          {
+            "key": "D",
+            "text": "父母有抚养教育子女的义务"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c6_multi_5",
+        "chapterId": 6,
+        "num": 5,
+        "type": "multi",
+        "prompt": "下列关于人民民主专政的说法，正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "人民民主专政是我国的国体"
+          },
+          {
+            "key": "B",
+            "text": "爱国统一战线是人民民主专政的重要保障"
+          },
+          {
+            "key": "C",
+            "text": "人民民主专政是我国的国家制度之一"
+          },
+          {
+            "key": "D",
+            "text": "爱国统一战线的存在，是我国人民民主专政国家政权的重要特点之一"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c6_multi_6",
+        "chapterId": 6,
+        "num": 6,
+        "type": "multi",
+        "prompt": "人民政协的主要职能包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "政治协商"
+          },
+          {
+            "key": "B",
+            "text": "民主监督"
+          },
+          {
+            "key": "C",
+            "text": "参政议政"
+          },
+          {
+            "key": "D",
+            "text": "为维护世界和平服务"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c6_multi_7",
+        "chapterId": 6,
+        "num": 7,
+        "type": "multi",
+        "prompt": "下列职权归全国人民代表大会行使的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "修改宪法"
+          },
+          {
+            "key": "B",
+            "text": "制定和修改基本法律"
+          },
+          {
+            "key": "C",
+            "text": "监督宪法的实施"
+          },
+          {
+            "key": "D",
+            "text": "选举、决定和罢免最高国家机关领导人员"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c6_multi_8",
+        "chapterId": 6,
+        "num": 8,
+        "type": "multi",
+        "prompt": "全国人民代表大会常务委员会的组成人员有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "委员长"
+          },
+          {
+            "key": "B",
+            "text": "副委员长若干人"
+          },
+          {
+            "key": "C",
+            "text": "秘书长"
+          },
+          {
+            "key": "D",
+            "text": "委员若干人"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c6_multi_9",
+        "chapterId": 6,
+        "num": 9,
+        "type": "multi",
+        "prompt": "下列关于国务院的职权，正确的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "根据宪法和法律，规定行政措施，制定行政法规"
+          },
+          {
+            "key": "B",
+            "text": "领导和管理经济工作和城乡建设、生态文明建设"
+          },
+          {
+            "key": "C",
+            "text": "批准省、自治区、直辖市的区域划分"
+          },
+          {
+            "key": "D",
+            "text": "宣布全国进入紧急状态"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c6_multi_10",
+        "chapterId": 6,
+        "num": 10,
+        "type": "multi",
+        "prompt": "县级以上的地方各级人民代表大会选举并且有权罢免( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "本级监察委员会主任"
+          },
+          {
+            "key": "B",
+            "text": "本级人民法院院长"
+          },
+          {
+            "key": "C",
+            "text": "上级人民检察院检察长"
+          },
+          {
+            "key": "D",
+            "text": "本级人民检察院检察长"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ]
+      }
+    ],
+    "judgeQuestions": [
+      {
+        "id": "c6_judge_1",
+        "chapterId": 6,
+        "num": 1,
+        "type": "judge",
+        "prompt": "法律和其他议案的修改由全国人民代表大会以全体代表的三分之二以上多数同意 才能通过。",
+        "answer": false
+      },
+      {
+        "id": "c6_judge_2",
+        "chapterId": 6,
+        "num": 2,
+        "type": "judge",
+        "prompt": "任何人不得利用宗教进行破坏社会秩序、损害公民身体健康、妨碍国家教育制度 的活动。",
+        "answer": true
+      },
+      {
+        "id": "c6_judge_3",
+        "chapterId": 6,
+        "num": 3,
+        "type": "judge",
+        "prompt": "申诉、控告、检举权是指公民对任何国家工作人员的行政行为不满，有向有关机 关提出申诉、控告或者检举的权利。",
+        "answer": false
+      },
+      {
+        "id": "c6_judge_4",
+        "chapterId": 6,
+        "num": 4,
+        "type": "judge",
+        "prompt": "劳动权和休息权属于人身自由权。",
+        "answer": false
+      },
+      {
+        "id": "c6_judge_5",
+        "chapterId": 6,
+        "num": 5,
+        "type": "judge",
+        "prompt": "公民的合法的私有财产不受侵犯。",
+        "answer": true
+      },
+      {
+        "id": "c6_judge_6",
+        "chapterId": 6,
+        "num": 6,
+        "type": "judge",
+        "prompt": "夫妻双方有实行计划生育的义务。",
+        "answer": true
+      },
+      {
+        "id": "c6_judge_7",
+        "chapterId": 6,
+        "num": 7,
+        "type": "judge",
+        "prompt": "民族区域自治制度是实行区域自治的民族的公民自主管理本民族内部事务的制度。",
+        "answer": true
+      },
+      {
+        "id": "c6_judge_8",
+        "chapterId": 6,
+        "num": 8,
+        "type": "judge",
+        "prompt": "中央军事委员会主席由全国人民代表大会选举产生。",
+        "answer": true
+      },
+      {
+        "id": "c6_judge_9",
+        "chapterId": 6,
+        "num": 9,
+        "type": "judge",
+        "prompt": "人民法院审理案件，除法律规定的特别情况外，不得向外公开进行。",
+        "answer": false
+      },
+      {
+        "id": "c6_judge_10",
+        "chapterId": 6,
+        "num": 10,
+        "type": "judge",
+        "prompt": "最高人民检察院领导地方各级人民检察院和专门人民检察院的工作，上级人民检 察院领导下级人民检察院的工作。",
+        "answer": true
+      }
+    ]
+  },
+  {
+    "chapterId": 7,
+    "title": "第七章  民  法",
+    "singleQuestions": [
+      {
+        "id": "c7_single_1",
+        "chapterId": 7,
+        "num": 1,
+        "type": "single",
+        "prompt": "我国民法的基本原则之一是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "道德原则"
+          },
+          {
+            "key": "B",
+            "text": "自由原则"
+          },
+          {
+            "key": "C",
+            "text": "绿色原则"
+          },
+          {
+            "key": "D",
+            "text": "规范原则"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c7_single_2",
+        "chapterId": 7,
+        "num": 2,
+        "type": "single",
+        "prompt": "由民法规范调整的、以权利义务为内容的社会关系是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "民事法律关系"
+          },
+          {
+            "key": "B",
+            "text": "民事法律关系主体"
+          },
+          {
+            "key": "C",
+            "text": "民事法律关系客体"
+          },
+          {
+            "key": "D",
+            "text": "民事法律关系内容"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c7_single_3",
+        "chapterId": 7,
+        "num": 3,
+        "type": "single",
+        "prompt": "自然人的民事权利能力始于出生，终于( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "六十周岁"
+          },
+          {
+            "key": "B",
+            "text": "七十周岁"
+          },
+          {
+            "key": "C",
+            "text": "八十周岁"
+          },
+          {
+            "key": "D",
+            "text": "死 亡"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c7_single_4",
+        "chapterId": 7,
+        "num": 4,
+        "type": "single",
+        "prompt": "自然人取得完全民事行为能力的法定年龄是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "十八周岁"
+          },
+          {
+            "key": "B",
+            "text": "十周岁"
+          },
+          {
+            "key": "C",
+            "text": "十六周岁"
+          },
+          {
+            "key": "D",
+            "text": "二十周岁"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c7_single_5",
+        "chapterId": 7,
+        "num": 5,
+        "type": "single",
+        "prompt": "不能完全辨认自己行为的成年人是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "完全民事行为能力人"
+          },
+          {
+            "key": "B",
+            "text": "限制民事行为能力人"
+          },
+          {
+            "key": "C",
+            "text": "无民事行为能力人"
+          },
+          {
+            "key": "D",
+            "text": "一般民事行为能力人"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c7_single_6",
+        "chapterId": 7,
+        "num": 6,
+        "type": "single",
+        "prompt": "未成年人的父母已经死亡或者没有监护能力的，首先由下列有监护能力的人按顺 序担任监护人( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "祖父母、外祖父母"
+          },
+          {
+            "key": "B",
+            "text": "兄、姐"
+          },
+          {
+            "key": "C",
+            "text": "居民委员会、村民委员会"
+          },
+          {
+            "key": "D",
+            "text": "其他组织和个人"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c7_single_7",
+        "chapterId": 7,
+        "num": 7,
+        "type": "single",
+        "prompt": "个体工商户是指从事工商业经营，经依法登记的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "自 然 人"
+          },
+          {
+            "key": "B",
+            "text": "营利法人"
+          },
+          {
+            "key": "C",
+            "text": "特别法人"
+          },
+          {
+            "key": "D",
+            "text": "非法人组织"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c7_single_8",
+        "chapterId": 7,
+        "num": 8,
+        "type": "single",
+        "prompt": "具有民事权利能力和民事行为能力，依法独立享有民事权利和承担民事义务的组 织 是 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "事业单位"
+          },
+          {
+            "key": "B",
+            "text": "法人"
+          },
+          {
+            "key": "C",
+            "text": "社会团体"
+          },
+          {
+            "key": "D",
+            "text": "社会服务机构"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c7_single_9",
+        "chapterId": 7,
+        "num": 9,
+        "type": "single",
+        "prompt": "农村集体经济组织法人属于( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "营利法人"
+          },
+          {
+            "key": "B",
+            "text": "非营利法人"
+          },
+          {
+            "key": "C",
+            "text": "特别法人"
+          },
+          {
+            "key": "D",
+            "text": "特殊法人"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c7_single_10",
+        "chapterId": 7,
+        "num": 10,
+        "type": "single",
+        "prompt": "下列关于非法人组织的说法，不正确的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "非法人组织不具有法人资格，但是能够依法以自己的名义从事民事活动"
+          },
+          {
+            "key": "B",
+            "text": "非法人组织包括个人独资企业、合伙企业、不具有法人资格的专业服务机构等"
+          },
+          {
+            "key": "C",
+            "text": "非法人组织应当依照法律的规定登记"
+          },
+          {
+            "key": "D",
+            "text": "非法人组织的财产不足以清偿债务的，其出资人或者设立人承担有限责任"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c7_single_11",
+        "chapterId": 7,
+        "num": 11,
+        "type": "single",
+        "prompt": "下列不属于可撤销民事法律行为的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "违背公序良俗"
+          },
+          {
+            "key": "B",
+            "text": "重大误解"
+          },
+          {
+            "key": "C",
+            "text": "欺诈、胁迫"
+          },
+          {
+            "key": "D",
+            "text": "乘人之危显失公平"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c7_single_12",
+        "chapterId": 7,
+        "num": 12,
+        "type": "single",
+        "prompt": "民事法律行为的效力有待于第三人意思表示，在第三人意思表示前，效力处于不 确定状态的民事法律行为是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "无效民事法律行为"
+          },
+          {
+            "key": "B",
+            "text": "可撤销民事法律行为"
+          },
+          {
+            "key": "C",
+            "text": "效力待定民事法律行为"
+          },
+          {
+            "key": "D",
+            "text": "民事法律行为"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c7_single_13",
+        "chapterId": 7,
+        "num": 13,
+        "type": "single",
+        "prompt": "代理人按照被代理人的委托行使代理权是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "委托代理"
+          },
+          {
+            "key": "B",
+            "text": "指定代理"
+          },
+          {
+            "key": "C",
+            "text": "法定代理"
+          },
+          {
+            "key": "D",
+            "text": "一般代理"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c7_single_14",
+        "chapterId": 7,
+        "num": 14,
+        "type": "single",
+        "prompt": "所有权人对自己的不动产或者动产 ，依法享有占有 、使用 、收益和 处分的权利是 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": ". 用益物权"
+          },
+          {
+            "key": "B",
+            "text": "所有权"
+          },
+          {
+            "key": "C",
+            "text": "担保物权"
+          },
+          {
+            "key": "D",
+            "text": "债权"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c7_single_15",
+        "chapterId": 7,
+        "num": 15,
+        "type": "single",
+        "prompt": "共有是指两个以上的民事主体对同一项财产享有所有权。共有包括按份共有 和 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "个人共有"
+          },
+          {
+            "key": "B",
+            "text": "组织共有"
+          },
+          {
+            "key": "C",
+            "text": "管理共有"
+          },
+          {
+            "key": "D",
+            "text": "共同共有"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c7_single_16",
+        "chapterId": 7,
+        "num": 16,
+        "type": "single",
+        "prompt": "为满足生活居住的需要，依合同约定，对他人的住宅享有占有、使用的用益物权是 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "租赁权"
+          },
+          {
+            "key": "B",
+            "text": "地役权"
+          },
+          {
+            "key": "C",
+            "text": "居住权"
+          },
+          {
+            "key": "D",
+            "text": "留住权"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c7_single_17",
+        "chapterId": 7,
+        "num": 17,
+        "type": "single",
+        "prompt": "除法律另有规定或者当事人另有约定外，合同成立的时间是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "承诺生效时"
+          },
+          {
+            "key": "B",
+            "text": "要约生效时"
+          },
+          {
+            "key": "C",
+            "text": "意思表示时"
+          },
+          {
+            "key": "D",
+            "text": "签名盖章时"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c7_single_18",
+        "chapterId": 7,
+        "num": 18,
+        "type": "single",
+        "prompt": "自然人的生命安全和生命尊严受法律保护，任何组织或者个人不得侵害他人的 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "健康权"
+          },
+          {
+            "key": "B",
+            "text": "生命权"
+          },
+          {
+            "key": "C",
+            "text": "身体权"
+          },
+          {
+            "key": "D",
+            "text": "人身权"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c7_single_19",
+        "chapterId": 7,
+        "num": 19,
+        "type": "single",
+        "prompt": "夫妻在婚姻关系存续期间所得的下列财产中，属于夫妻共同财产的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "一方因受到人身损害获得的赔偿"
+          },
+          {
+            "key": "B",
+            "text": "遗嘱中确定只归 一 方的财产"
+          },
+          {
+            "key": "C",
+            "text": "工资、奖金、劳务报酬"
+          },
+          {
+            "key": "D",
+            "text": "一 方专用的生活用品"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c7_single_20",
+        "chapterId": 7,
+        "num": 20,
+        "type": "single",
+        "prompt": "继承开始的时间是被继承人( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "出生时"
+          },
+          {
+            "key": "B",
+            "text": "死亡时"
+          },
+          {
+            "key": "C",
+            "text": "立遗嘱时"
+          },
+          {
+            "key": "D",
+            "text": "遗产分割时"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c7_single_21",
+        "chapterId": 7,
+        "num": 21,
+        "type": "single",
+        "prompt": "立有多份内容相抵触的遗嘱，以哪份遗嘱为准?( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "最先的"
+          },
+          {
+            "key": "B",
+            "text": "公 证 的"
+          },
+          {
+            "key": "C",
+            "text": "最后的"
+          },
+          {
+            "key": "D",
+            "text": "自 书 的"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c7_single_22",
+        "chapterId": 7,
+        "num": 22,
+        "type": "single",
+        "prompt": "下列财产中不能作为遗产的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "房屋"
+          },
+          {
+            "key": "B",
+            "text": "合法收入"
+          },
+          {
+            "key": "C",
+            "text": "抚恤金"
+          },
+          {
+            "key": "D",
+            "text": "储蓄"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c7_single_23",
+        "chapterId": 7,
+        "num": 23,
+        "type": "single",
+        "prompt": "行为人因过错侵害他人民事权益造成损害的，应当承担的侵权责任是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "过错责任"
+          },
+          {
+            "key": "B",
+            "text": "连带责任"
+          },
+          {
+            "key": "C",
+            "text": "无过错责任"
+          },
+          {
+            "key": "D",
+            "text": "公平责任"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c7_single_24",
+        "chapterId": 7,
+        "num": 24,
+        "type": "single",
+        "prompt": "因正当防卫造成损害的，是否要承担民事责任?( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "承担大部分"
+          },
+          {
+            "key": "B",
+            "text": "承担部分"
+          },
+          {
+            "key": "C",
+            "text": "不承担"
+          },
+          {
+            "key": "D",
+            "text": "应该承担"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c7_single_25",
+        "chapterId": 7,
+        "num": 25,
+        "type": "single",
+        "prompt": "因自愿实施紧急救助行为造成受助人损害的，救助人是否要承担民事责任? ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "应该承担"
+          },
+          {
+            "key": "B",
+            "text": "不承担"
+          },
+          {
+            "key": "C",
+            "text": "视情况而定"
+          },
+          {
+            "key": "D",
+            "text": "承担部分"
+          }
+        ],
+        "answer": "B"
+      }
+    ],
+    "multiQuestions": [
+      {
+        "id": "c7_multi_1",
+        "chapterId": 7,
+        "num": 1,
+        "type": "multi",
+        "prompt": "民事责任根据责任发生的原因与法律要件不同，可以分为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "违约责任"
+          },
+          {
+            "key": "B",
+            "text": "侵权责任"
+          },
+          {
+            "key": "C",
+            "text": "侵害责任"
+          },
+          {
+            "key": "D",
+            "text": "其他责任"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "id": "c7_multi_2",
+        "chapterId": 7,
+        "num": 2,
+        "type": "multi",
+        "prompt": "下列选项中属于承担民事责任的方式的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "停止侵害"
+          },
+          {
+            "key": "B",
+            "text": "排除妨碍"
+          },
+          {
+            "key": "C",
+            "text": "继续履行"
+          },
+          {
+            "key": "D",
+            "text": "赔偿损失"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c7_multi_3",
+        "chapterId": 7,
+        "num": 3,
+        "type": "multi",
+        "prompt": "下列选项中属于监护人职责的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "代理被监护人实施民事法律行为"
+          },
+          {
+            "key": "B",
+            "text": "承担刑事责任"
+          },
+          {
+            "key": "C",
+            "text": "保护被监护人的人身权利"
+          },
+          {
+            "key": "D",
+            "text": "保护被监护人的财产权利及其他合法权益等"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c7_multi_4",
+        "chapterId": 7,
+        "num": 4,
+        "type": "multi",
+        "prompt": "民事法律行为有效，应具备的条件有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "行为人具有相应的民事行为能力"
+          },
+          {
+            "key": "B",
+            "text": "意思表示真实"
+          },
+          {
+            "key": "C",
+            "text": "不违反法律、行政法规的强制性规定"
+          },
+          {
+            "key": "D",
+            "text": "不违背公序良俗"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c7_multi_5",
+        "chapterId": 7,
+        "num": 5,
+        "type": "multi",
+        "prompt": "请求权不适用诉讼时效的规定，下列符合的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "请求停止侵害、排除妨碍、消除危险"
+          },
+          {
+            "key": "B",
+            "text": "不动产物权和登记的动产物权的权利人请求返还财产"
+          },
+          {
+            "key": "C",
+            "text": "请求支付抚养费、赡养费或者扶养费"
+          },
+          {
+            "key": "D",
+            "text": "依法不适用诉讼时效的其他请求权"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c7_multi_6",
+        "chapterId": 7,
+        "num": 6,
+        "type": "multi",
+        "prompt": "担保物权包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "抵押权"
+          },
+          {
+            "key": "B",
+            "text": "质权"
+          },
+          {
+            "key": "C",
+            "text": "留置权"
+          },
+          {
+            "key": "D",
+            "text": "地役权"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c7_multi_7",
+        "chapterId": 7,
+        "num": 7,
+        "type": "multi",
+        "prompt": "合同的内容由当事人约定，一般包括的条款有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "当事人的姓名"
+          },
+          {
+            "key": "B",
+            "text": "标的"
+          },
+          {
+            "key": "C",
+            "text": "数量"
+          },
+          {
+            "key": "D",
+            "text": "质量"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c7_multi_8",
+        "chapterId": 7,
+        "num": 8,
+        "type": "multi",
+        "prompt": "下列属于人格权特征的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "固有性"
+          },
+          {
+            "key": "B",
+            "text": "专属性"
+          },
+          {
+            "key": "C",
+            "text": "对世性"
+          },
+          {
+            "key": "D",
+            "text": "具有防御性、积极利用的权能"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c7_multi_9",
+        "chapterId": 7,
+        "num": 9,
+        "type": "multi",
+        "prompt": "下列属于我国婚姻家庭法的基本原则的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "婚姻自由原则"
+          },
+          {
+            "key": "B",
+            "text": "一夫一妻原则"
+          },
+          {
+            "key": "C",
+            "text": "男女平等原则"
+          },
+          {
+            "key": "D",
+            "text": "最有利于被收养人原则"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c7_multi_10",
+        "chapterId": 7,
+        "num": 10,
+        "type": "multi",
+        "prompt": "侵权责任的免除和减轻事由主要有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "受害人过错"
+          },
+          {
+            "key": "B",
+            "text": "受害人故意"
+          },
+          {
+            "key": "C",
+            "text": "第三人过错"
+          },
+          {
+            "key": "D",
+            "text": "自甘风险"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "judgeQuestions": [
+      {
+        "id": "c7_judge_1",
+        "chapterId": 7,
+        "num": 1,
+        "type": "judge",
+        "prompt": "民事法律关系包括人身关系和财产关系。",
+        "answer": true
+      },
+      {
+        "id": "c7_judge_2",
+        "chapterId": 7,
+        "num": 2,
+        "type": "judge",
+        "prompt": "赔礼道歉不属于承担民事责任的方式。",
+        "answer": false
+      },
+      {
+        "id": "c7_judge_3",
+        "chapterId": 7,
+        "num": 3,
+        "type": "judge",
+        "prompt": "因保护他人民事权益使自己受到损害的，由受益人承担民事责任。",
+        "answer": false
+      },
+      {
+        "id": "c7_judge_4",
+        "chapterId": 7,
+        "num": 4,
+        "type": "judge",
+        "prompt": "不满八周岁的未成年人，可以独立实施纯获利益的民事法律行为。",
+        "answer": false
+      },
+      {
+        "id": "c7_judge_5",
+        "chapterId": 7,
+        "num": 5,
+        "type": "judge",
+        "prompt": "被撤销的民事法律行为自被撤销时没有法律约束力。",
+        "answer": false
+      },
+      {
+        "id": "c7_judge_6",
+        "chapterId": 7,
+        "num": 6,
+        "type": "judge",
+        "prompt": "诉讼时效是指权利人在法定期限内不行使自己的权利，法律规定其胜诉权归于消 失的时效制度。",
+        "answer": true
+      },
+      {
+        "id": "c7_judge_7",
+        "chapterId": 7,
+        "num": 7,
+        "type": "judge",
+        "prompt": "船舶、航空器和机动车等物权的设立、变更、转让和消灭，未经登记，不发生效力。",
+        "answer": false
+      },
+      {
+        "id": "c7_judge_8",
+        "chapterId": 7,
+        "num": 8,
+        "type": "judge",
+        "prompt": "合同的履行，是指债务人或第三人完成作为合同债务内容的给付，并因此使合同债权目的得以实现。",
+        "answer": true
+      },
+      {
+        "id": "c7_judge_9",
+        "chapterId": 7,
+        "num": 9,
+        "type": "judge",
+        "prompt": "无因管理是指管理人没有法律规定或者约定的义务，为避免他人利益受损失而管 理他人事务的行为。",
+        "answer": true
+      },
+      {
+        "id": "c7_judge_10",
+        "chapterId": 7,
+        "num": 10,
+        "type": "judge",
+        "prompt": "环境污染和生态破坏责任适用过错责任原则。",
+        "answer": false
+      }
+    ]
+  },
+  {
+    "chapterId": 8,
+    "title": "第八章  刑  法",
+    "singleQuestions": [
+      {
+        "id": "c8_single_1",
+        "chapterId": 8,
+        "num": 1,
+        "type": "single",
+        "prompt": "统治阶级为了维护本阶级的政治统治和经济利益，根据本阶级意志，通过国家立 法程序制定的关于犯罪和刑罚的法律规范的总称是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "民 法"
+          },
+          {
+            "key": "B",
+            "text": "刑 法"
+          },
+          {
+            "key": "C",
+            "text": "行政法"
+          },
+          {
+            "key": "D",
+            "text": "刑事诉讼法"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c8_single_2",
+        "chapterId": 8,
+        "num": 2,
+        "type": "single",
+        "prompt": "刑罚的轻重，应当与犯罪分子所犯罪行和承担的刑事责任相适应。这是指 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "罪刑法定原则"
+          },
+          {
+            "key": "B",
+            "text": "适用刑法人人平等原则"
+          },
+          {
+            "key": "C",
+            "text": "罪刑相适应原则"
+          },
+          {
+            "key": "D",
+            "text": "刑事司法公正原则"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c8_single_3",
+        "chapterId": 8,
+        "num": 3,
+        "type": "single",
+        "prompt": "刑法在什么地域、对什么人和在什么时间适用，以及是否具有溯及既往的效力， 又称刑法的适用范围的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "刑法的时间效力"
+          },
+          {
+            "key": "B",
+            "text": "刑法的空间效力"
+          },
+          {
+            "key": "C",
+            "text": "普遍管辖权"
+          },
+          {
+            "key": "D",
+            "text": "刑法的效力范围"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c8_single_4",
+        "chapterId": 8,
+        "num": 4,
+        "type": "single",
+        "prompt": "凡在中华人民共和国领域内犯罪的，除法律有特别规定的以外，都适用我国刑法。 这属于我国刑法中的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "属地管辖权"
+          },
+          {
+            "key": "B",
+            "text": "属人管辖权"
+          },
+          {
+            "key": "C",
+            "text": "保护管辖权"
+          },
+          {
+            "key": "D",
+            "text": "普遍管辖权"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c8_single_5",
+        "chapterId": 8,
+        "num": 5,
+        "type": "single",
+        "prompt": "我国刑法中规定以保护各国共同利益为标准的管辖权是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "属地管辖权"
+          },
+          {
+            "key": "B",
+            "text": "属人管辖权"
+          },
+          {
+            "key": "C",
+            "text": "保护管辖权"
+          },
+          {
+            "key": "D",
+            "text": "普遍管辖权"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c8_single_6",
+        "chapterId": 8,
+        "num": 6,
+        "type": "single",
+        "prompt": "我国刑法在溯及力问题上采用的原则是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "“从旧兼从轻”"
+          },
+          {
+            "key": "B",
+            "text": "“从旧兼从重”"
+          },
+          {
+            "key": "C",
+            "text": "“从新兼从轻”"
+          },
+          {
+            "key": "D",
+            "text": "“从新兼从重”"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c8_single_7",
+        "chapterId": 8,
+        "num": 7,
+        "type": "single",
+        "prompt": "犯罪行为和由这种行为所造成的危害结果是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "犯罪主观方面"
+          },
+          {
+            "key": "B",
+            "text": "犯罪构成"
+          },
+          {
+            "key": "C",
+            "text": "犯罪客观方面"
+          },
+          {
+            "key": "D",
+            "text": "犯罪客体"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c8_single_8",
+        "chapterId": 8,
+        "num": 8,
+        "type": "single",
+        "prompt": "刑法所规定的行为人对自己的犯罪行为负刑事责任必须达到的年龄是( ) 。",
+        "options": [
+          {
+            "key": "A",
+            "text": "刑事责任年龄"
+          },
+          {
+            "key": "B",
+            "text": "刑事责任能力"
+          },
+          {
+            "key": "C",
+            "text": "犯罪主观方面"
+          },
+          {
+            "key": "D",
+            "text": "犯罪客观方面"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c8_single_9",
+        "chapterId": 8,
+        "num": 9,
+        "type": "single",
+        "prompt": "已满多少周岁的人犯罪，应当承担完全刑事责任( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "十二周岁"
+          },
+          {
+            "key": "B",
+            "text": "十四周岁"
+          },
+          {
+            "key": "C",
+            "text": "十六周岁"
+          },
+          {
+            "key": "D",
+            "text": "十八周岁"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c8_single_10",
+        "chapterId": 8,
+        "num": 10,
+        "type": "single",
+        "prompt": "已满多少周岁的人故意犯罪的，可以从轻或者减轻处罚( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": ". 五十周岁"
+          },
+          {
+            "key": "B",
+            "text": "六十周岁"
+          },
+          {
+            "key": "C",
+            "text": "七十周岁"
+          },
+          {
+            "key": "D",
+            "text": "七十五周岁"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c8_single_11",
+        "chapterId": 8,
+        "num": 11,
+        "type": "single",
+        "prompt": "尚未完全丧失辨认或者控制自己行为能力的精神病人犯罪的，应当负刑事责任， 但是可以( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "从轻处罚"
+          },
+          {
+            "key": "B",
+            "text": "减轻处罚"
+          },
+          {
+            "key": "C",
+            "text": "从轻或者减轻处罚"
+          },
+          {
+            "key": "D",
+            "text": "从轻、减轻或者免除处罚"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c8_single_12",
+        "chapterId": 8,
+        "num": 12,
+        "type": "single",
+        "prompt": "犯罪主体明知自己的行为会发生危害社会的结果，并且希望或者放任这种结果发生的一种心理态度是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "犯罪目的"
+          },
+          {
+            "key": "B",
+            "text": "犯罪动机"
+          },
+          {
+            "key": "C",
+            "text": "犯罪故意"
+          },
+          {
+            "key": "D",
+            "text": "犯罪过失"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c8_single_13",
+        "chapterId": 8,
+        "num": 13,
+        "type": "single",
+        "prompt": "对于过失犯罪，什么情况下负刑事责任? ( )",
+        "options": [
+          {
+            "key": "A",
+            "text": "造成重大损失的"
+          },
+          {
+            "key": "B",
+            "text": "情节严重的"
+          },
+          {
+            "key": "C",
+            "text": "刑法中有明确规定的"
+          },
+          {
+            "key": "D",
+            "text": "严重危害社会秩序的"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c8_single_14",
+        "chapterId": 8,
+        "num": 14,
+        "type": "single",
+        "prompt": "行为在客观上虽然造成了损害结果，但是不是由于故意或者过失，而是由于不能 抗拒或者不能预见的原因所引起的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "免予处罚"
+          },
+          {
+            "key": "B",
+            "text": "从轻处罚"
+          },
+          {
+            "key": "C",
+            "text": "减轻处罚"
+          },
+          {
+            "key": "D",
+            "text": "不是犯罪"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c8_single_15",
+        "chapterId": 8,
+        "num": 15,
+        "type": "single",
+        "prompt": "为了使国家、公共利益、本人或者他人的人身、财产和其他权利免受正在发生的 危险，不得已而采取的损害另一较小合法利益的行为是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "正当防卫"
+          },
+          {
+            "key": "B",
+            "text": "意外事件"
+          },
+          {
+            "key": "C",
+            "text": "紧急避险"
+          },
+          {
+            "key": "D",
+            "text": "犯罪"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c8_single_16",
+        "chapterId": 8,
+        "num": 16,
+        "type": "single",
+        "prompt": "犯罪分子已经着手实行犯罪，但由于犯罪分子意志以外的原因而未能得逞是 ( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "犯罪预备"
+          },
+          {
+            "key": "B",
+            "text": "犯罪中止"
+          },
+          {
+            "key": "C",
+            "text": "犯罪既遂"
+          },
+          {
+            "key": "D",
+            "text": "犯罪未遂"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c8_single_17",
+        "chapterId": 8,
+        "num": 17,
+        "type": "single",
+        "prompt": "下列关于共同犯罪说法正确的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "共同犯罪的人数应为三人以上"
+          },
+          {
+            "key": "B",
+            "text": "共同犯罪包括共同故意犯罪和共同过失犯罪"
+          },
+          {
+            "key": "C",
+            "text": "犯罪主体不需要都达到刑事责任年龄"
+          },
+          {
+            "key": "D",
+            "text": "共同犯罪按他们犯的罪分别处罚"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c8_single_18",
+        "chapterId": 8,
+        "num": 18,
+        "type": "single",
+        "prompt": "人民法院判决的，对犯罪人不予关押，但限制其一定自由，依法实行社区矫正的 刑罚方法是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "管制"
+          },
+          {
+            "key": "B",
+            "text": "拘役"
+          },
+          {
+            "key": "C",
+            "text": "有期徒刑"
+          },
+          {
+            "key": "D",
+            "text": "无期徒刑"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c8_single_19",
+        "chapterId": 8,
+        "num": 19,
+        "type": "single",
+        "prompt": "被判处拘役的犯罪人，判决执行前先行羁押的，羁押一日折抵刑期( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "半日"
+          },
+          {
+            "key": "B",
+            "text": "一 日"
+          },
+          {
+            "key": "C",
+            "text": "二日"
+          },
+          {
+            "key": "D",
+            "text": "三日"
+          }
+        ],
+        "answer": "B"
+      },
+      {
+        "id": "c8_single_20",
+        "chapterId": 8,
+        "num": 20,
+        "type": "single",
+        "prompt": "剥夺犯罪人一定期限的人身自由，并强制劳动改造的刑罚方法是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "管制"
+          },
+          {
+            "key": "B",
+            "text": "拘役"
+          },
+          {
+            "key": "C",
+            "text": "有期徒刑"
+          },
+          {
+            "key": "D",
+            "text": "无期徒刑"
+          }
+        ],
+        "answer": "C"
+      },
+      {
+        "id": "c8_single_21",
+        "chapterId": 8,
+        "num": 21,
+        "type": "single",
+        "prompt": "有期徒刑的期限为六个月以上十五年以下，数罪并罚时有期徒刑总和刑期不满三 十五年的，最高不能超过二十年，总和刑期在三十五年以上的，最高不能超过( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "十八年"
+          },
+          {
+            "key": "B",
+            "text": "三十年"
+          },
+          {
+            "key": "C",
+            "text": "二十年"
+          },
+          {
+            "key": "D",
+            "text": "二十五年"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c8_single_22",
+        "chapterId": 8,
+        "num": 22,
+        "type": "single",
+        "prompt": "犯罪的时候不满十八周岁的人和审判的时候怀孕的妇女( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "可以适用死刑"
+          },
+          {
+            "key": "B",
+            "text": "经核准适用死刑"
+          },
+          {
+            "key": "C",
+            "text": "一般不适用死刑"
+          },
+          {
+            "key": "D",
+            "text": "不适用死刑"
+          }
+        ],
+        "answer": "D"
+      },
+      {
+        "id": "c8_single_23",
+        "chapterId": 8,
+        "num": 23,
+        "type": "single",
+        "prompt": "下列不属于附加刑的是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "管制"
+          },
+          {
+            "key": "B",
+            "text": "罚金"
+          },
+          {
+            "key": "C",
+            "text": "剥夺政治权利"
+          },
+          {
+            "key": "D",
+            "text": "没收财产"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c8_single_24",
+        "chapterId": 8,
+        "num": 24,
+        "type": "single",
+        "prompt": "被判处有期徒刑以上刑罚，在刑罚执行完毕或赦免之后，在五年以内再犯应当判 处有期徒刑以上刑罚之故意犯罪的犯罪人是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般累犯"
+          },
+          {
+            "key": "B",
+            "text": "重大累犯"
+          },
+          {
+            "key": "C",
+            "text": "特殊累犯"
+          },
+          {
+            "key": "D",
+            "text": "特别累犯"
+          }
+        ],
+        "answer": "A"
+      },
+      {
+        "id": "c8_single_25",
+        "chapterId": 8,
+        "num": 25,
+        "type": "single",
+        "prompt": "人民法院对犯罪人依法裁量决定刑罚的审判活动是( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "数罪并罚"
+          },
+          {
+            "key": "B",
+            "text": "缓刑"
+          },
+          {
+            "key": "C",
+            "text": "量刑"
+          },
+          {
+            "key": "D",
+            "text": "减刑"
+          }
+        ],
+        "answer": "C"
+      }
+    ],
+    "multiQuestions": [
+      {
+        "id": "c8_multi_1",
+        "chapterId": 8,
+        "num": 1,
+        "type": "multi",
+        "prompt": "刑法的基本原则包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "罪刑法定原则"
+          },
+          {
+            "key": "B",
+            "text": "适用刑法人人平等原则"
+          },
+          {
+            "key": "C",
+            "text": "罪刑相适应原则"
+          },
+          {
+            "key": "D",
+            "text": "公平原则"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c8_multi_2",
+        "chapterId": 8,
+        "num": 2,
+        "type": "multi",
+        "prompt": "下面关于犯罪的基本特征的说法，正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "具有严重的社会危害性是犯罪最本质的特征"
+          },
+          {
+            "key": "B",
+            "text": "刑事违法性是指行为触犯了我国法律规范"
+          },
+          {
+            "key": "C",
+            "text": "应受刑罚惩罚性是犯罪的一个基本特征"
+          },
+          {
+            "key": "D",
+            "text": "犯罪和违法的制裁方式不同"
+          }
+        ],
+        "answer": [
+          "A",
+          "C"
+        ]
+      },
+      {
+        "id": "c8_multi_3",
+        "chapterId": 8,
+        "num": 3,
+        "type": "multi",
+        "prompt": "犯罪的客体分为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "一般客体"
+          },
+          {
+            "key": "B",
+            "text": "特殊客体"
+          },
+          {
+            "key": "C",
+            "text": "同类客体"
+          },
+          {
+            "key": "D",
+            "text": "直接客体"
+          }
+        ],
+        "answer": [
+          "A",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c8_multi_4",
+        "chapterId": 8,
+        "num": 4,
+        "type": "multi",
+        "prompt": "正当防卫行为应具备的条件有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "必须是为了使国家、公共利益、本人或者他人的人身、财产和其他权利免受不法 侵害"
+          },
+          {
+            "key": "B",
+            "text": "必须是有危害社会的不法侵害行为的发生"
+          },
+          {
+            "key": "C",
+            "text": "必须是针对正在进行的不法侵害"
+          },
+          {
+            "key": "D",
+            "text": "必须是针对实施不法侵害人本人"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c8_multi_5",
+        "chapterId": 8,
+        "num": 5,
+        "type": "multi",
+        "prompt": "犯罪由于主客观原因而停止在某个阶段，表现为未完成形态，具体包括( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "犯罪中止"
+          },
+          {
+            "key": "B",
+            "text": "犯罪未遂"
+          },
+          {
+            "key": "C",
+            "text": "犯罪预备"
+          },
+          {
+            "key": "D",
+            "text": "犯罪既遂"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C"
+        ]
+      },
+      {
+        "id": "c8_multi_6",
+        "chapterId": 8,
+        "num": 6,
+        "type": "multi",
+        "prompt": "我国刑法根据各共同犯罪人在共同犯罪中所处的地位和所起的作用，以及对社会的 危害程度的不同，将共同犯罪人分为( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主犯"
+          },
+          {
+            "key": "B",
+            "text": "从犯"
+          },
+          {
+            "key": "C",
+            "text": "胁从犯"
+          },
+          {
+            "key": "D",
+            "text": "教唆犯"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c8_multi_7",
+        "chapterId": 8,
+        "num": 7,
+        "type": "multi",
+        "prompt": "下面关于主刑的说法，正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "主刑是对犯罪人适用的主要刑罚方法"
+          },
+          {
+            "key": "B",
+            "text": "主刑既能独立适用，也能附加适用"
+          },
+          {
+            "key": "C",
+            "text": "主刑包括有期徒刑、无期徒刑和死刑"
+          },
+          {
+            "key": "D",
+            "text": "死刑是刑罚中最严厉的一种"
+          }
+        ],
+        "answer": [
+          "A",
+          "D"
+        ]
+      },
+      {
+        "id": "c8_multi_8",
+        "chapterId": 8,
+        "num": 8,
+        "type": "multi",
+        "prompt": "下列关于数罪并罚的说法，正确的有( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "管制最高不能超过三年"
+          },
+          {
+            "key": "B",
+            "text": "拘役最高不能超过一年"
+          },
+          {
+            "key": "C",
+            "text": "有期徒刑总和刑期不满三十五年的，最高不能超过二十年"
+          },
+          {
+            "key": "D",
+            "text": "有期徒刑总和刑期在三十五年以上的，最高不能超过二十五年"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c8_multi_9",
+        "chapterId": 8,
+        "num": 9,
+        "type": "multi",
+        "prompt": "刑事责任年龄划分为哪些阶段( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "完全负刑事责任年龄"
+          },
+          {
+            "key": "B",
+            "text": "相对负刑事责任年龄"
+          },
+          {
+            "key": "C",
+            "text": "完全不负刑事责任年龄"
+          },
+          {
+            "key": "D",
+            "text": "相对不负刑事责任年龄"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      },
+      {
+        "id": "c8_multi_10",
+        "chapterId": 8,
+        "num": 10,
+        "type": "multi",
+        "prompt": "单位犯罪主体是指实施了危害社会的犯罪行为，依法应当承担刑事责任的( )。",
+        "options": [
+          {
+            "key": "A",
+            "text": "公司、企业"
+          },
+          {
+            "key": "B",
+            "text": "事业单位"
+          },
+          {
+            "key": "C",
+            "text": "机关"
+          },
+          {
+            "key": "D",
+            "text": "团体"
+          }
+        ],
+        "answer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ]
+      }
+    ],
+    "judgeQuestions": [
+      {
+        "id": "c8_judge_1",
+        "chapterId": 8,
+        "num": 1,
+        "type": "judge",
+        "prompt": "依照法律应当受刑罚处罚的，都是犯罪，但是情节显著轻微危害不大，不认为是 犯罪。",
+        "answer": true
+      },
+      {
+        "id": "c8_judge_2",
+        "chapterId": 8,
+        "num": 2,
+        "type": "judge",
+        "prompt": "不满十四周岁的人，不管实施何种危害社会的行为，都不负刑事责任。",
+        "answer": false
+      },
+      {
+        "id": "c8_judge_3",
+        "chapterId": 8,
+        "num": 3,
+        "type": "judge",
+        "prompt": "因不满十六周岁不予刑事处罚的，责令其父母或者其他监护人加以管教，在必要的 时候，依法进行专门矫治教育。",
+        "answer": true
+      },
+      {
+        "id": "c8_judge_4",
+        "chapterId": 8,
+        "num": 4,
+        "type": "judge",
+        "prompt": "间歇性的精神病人在精神正常的时候犯罪，应当负刑事责任。",
+        "answer": true
+      },
+      {
+        "id": "c8_judge_5",
+        "chapterId": 8,
+        "num": 5,
+        "type": "judge",
+        "prompt": "意外事件是指行为在客观上虽然造成了损害结果，但不是出于行为人的故意或者过 失，而是由于不可抗拒的原因所引起的。",
+        "answer": false
+      },
+      {
+        "id": "c8_judge_6",
+        "chapterId": 8,
+        "num": 6,
+        "type": "judge",
+        "prompt": "剥夺政治权利包括剥夺受教育权。",
+        "answer": false
+      },
+      {
+        "id": "c8_judge_7",
+        "chapterId": 8,
+        "num": 7,
+        "type": "judge",
+        "prompt": "对于犯罪的外国人，可以独立适用或者附加适用驱逐出境。",
+        "answer": true
+      },
+      {
+        "id": "c8_judge_8",
+        "chapterId": 8,
+        "num": 8,
+        "type": "judge",
+        "prompt": "假释是指被判处有期徒刑或者无期徒刑的犯罪人，在执行一定刑期之后，确有悔改 表现，不致再危害社会而附有条件地将其提前释放的一种刑罚制度。",
+        "answer": true
+      },
+      {
+        "id": "c8_judge_9",
+        "chapterId": 8,
+        "num": 9,
+        "type": "judge",
+        "prompt": "在人民检察院、公安机关、国家安全机关立案侦查或者在人民法院受理案件以后， 逃避侦查或者审判的，应受追诉期限的限制。",
+        "answer": false
+      },
+      {
+        "id": "c8_judge_10",
+        "chapterId": 8,
+        "num": 10,
+        "type": "judge",
+        "prompt": "我国刑法对追诉时效和行刑时效都做了规定。",
+        "answer": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "name": "思想道德与法治 章节测验与自测练习",
+  "description": "包含第1至第8章在线随机抽题测验（每章10道单选题、5道多选题、5道判断题），支持即时计分、错题回顾分析与章节切换，专为移动端微信与Safari浏览器优化。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
