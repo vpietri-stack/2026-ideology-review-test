@@ -25,9 +25,13 @@ export interface ChapterData {
 
 export type UserAnswerValue = string | string[] | boolean | undefined;
 
+export type QuizMode = 'chapter' | 'full';
+
 export interface QuizSession {
+  mode: QuizMode;
+  // Chapter the session belongs to; 0 for a full-book session.
   chapterId: number;
-  questions: Question[]; // 10 single + 5 multi + 5 judge = 20 questions
+  questions: Question[];
   userAnswers: Record<string, UserAnswerValue>;
   submitted: boolean;
   score: number;
@@ -36,6 +40,13 @@ export interface QuizSession {
 
 export interface ChapterProgress {
   chapterId: number;
+  completedTimes: number;
+  lastScore: number;
+  bestScore: number;
+  lastCompletedAt: number;
+}
+
+export interface FullBookProgress {
   completedTimes: number;
   lastScore: number;
   bestScore: number;

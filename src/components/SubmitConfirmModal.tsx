@@ -21,6 +21,28 @@ export const SubmitConfirmModal: React.FC<SubmitConfirmModalProps> = ({
   const hasUnanswered = unansweredIndexes.length > 0;
   const answeredCount = totalQuestions - unansweredIndexes.length;
 
+  // Collapse consecutive question numbers into ranges so a 160-question paper
+  // does not render a wall of "第1题、第2题、…".
+  const toRangeLabels = (indexes: number[]) => {
+    if (indexes.length === 0) return [];
+    const labels: string[] = [];
+    let start = indexes[0];
+    let prev = indexes[0];
+    indexes.slice(1).forEach((idx) => {
+      if (idx === prev + 1) {
+        prev = idx;
+        return;
+      }
+      labels.push(start === prev ? `第${start + 1}题` : `第${start + 1}-${prev + 1}题`);
+      start = idx;
+      prev = idx;
+    });
+    labels.push(start === prev ? `第${start + 1}题` : `第${start + 1}-${prev + 1}题`);
+    return labels;
+  };
+
+  const unansweredLabel = toRangeLabels(unansweredIndexes);
+
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-slate-900/60 backdrop-blur-xs transition-opacity animate-in fade-in">
       <div
@@ -62,9 +84,7 @@ export const SubmitConfirmModal: React.FC<SubmitConfirmModalProps> = ({
               </p>
               <div className="mt-2.5 p-2.5 bg-amber-50/70 border border-amber-200/80 rounded-xl text-xs text-amber-900 max-h-24 overflow-y-auto">
                 <span className="font-semibold block mb-1">未答题号：</span>
-                <span className="leading-normal">
-                  {unansweredIndexes.map((idx) => `第${idx + 1}题`).join('、')}
-                </span>
+                <span className="leading-normal">{unansweredLabel.join('、')}</span>
               </div>
               <p className="mt-2 text-xs text-slate-500">
                 未作答的题目在提交后将被直接判定为错误并计0分。
@@ -72,7 +92,7 @@ export const SubmitConfirmModal: React.FC<SubmitConfirmModalProps> = ({
             </div>
           ) : (
             <p>
-              您已完成本章全部 <strong className="text-emerald-700">20</strong> 道题目！
+              您已完成本套全部 <strong className="text-emerald-700">{totalQuestions}</strong> 道题目！
               提交后将立即计算得分，并为您展示错题答案与详细对比。
             </p>
           )}

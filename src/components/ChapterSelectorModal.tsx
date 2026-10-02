@@ -1,6 +1,7 @@
 import React from 'react';
 import { X, CheckCircle2, Award, ChevronRight, BookOpen } from 'lucide-react';
 import { ChapterData, ChapterProgress } from '../types';
+import { QUIZ_RULES } from '../utils/quizUtils';
 
 interface ChapterSelectorModalProps {
   isOpen: boolean;
@@ -8,8 +9,11 @@ interface ChapterSelectorModalProps {
   chapters: ChapterData[];
   currentChapterId: number;
   onSelectChapter: (chapterId: number) => void;
+  onSwitchMode?: () => void;
   progressMap: Record<number, ChapterProgress>;
 }
+
+const perChapterQuestions = QUIZ_RULES.single + QUIZ_RULES.multi + QUIZ_RULES.judge;
 
 export const ChapterSelectorModal: React.FC<ChapterSelectorModalProps> = ({
   isOpen,
@@ -17,6 +21,7 @@ export const ChapterSelectorModal: React.FC<ChapterSelectorModalProps> = ({
   chapters,
   currentChapterId,
   onSelectChapter,
+  onSwitchMode,
   progressMap,
 }) => {
   if (!isOpen) return null;
@@ -35,7 +40,9 @@ export const ChapterSelectorModal: React.FC<ChapterSelectorModalProps> = ({
             </div>
             <div>
               <h2 className="text-base font-bold text-slate-900">选择练习章节</h2>
-              <p className="text-xs text-slate-500">共 8 个章节，点击立即开启抽题测验</p>
+              <p className="text-xs text-slate-500">
+                共 {chapters.length} 个章节，点击立即开启抽题测验
+              </p>
             </div>
           </div>
           <button
@@ -91,7 +98,9 @@ export const ChapterSelectorModal: React.FC<ChapterSelectorModalProps> = ({
                     </div>
 
                     <div className="flex items-center gap-3 mt-1 text-xs text-slate-500">
-                      <span>题库: 25单选 + 10多选 + 10判断</span>
+                      <span>
+                        {`题库: ${chapter.singleQuestions.length}单选 + ${chapter.multiQuestions.length}多选 + ${chapter.judgeQuestions.length}判断`}
+                      </span>
                       {hasCompleted && (
                         <span className="flex items-center gap-1 text-emerald-700 font-medium">
                           <CheckCircle2 className="w-3.5 h-3.5" />
@@ -111,14 +120,28 @@ export const ChapterSelectorModal: React.FC<ChapterSelectorModalProps> = ({
         </div>
 
         {/* Modal Footer */}
-        <div className="p-4 border-t border-slate-200 bg-slate-50/70 flex items-center justify-between text-xs text-slate-500">
-          <span>每次进入章节均会自动重新随机抽取 20 题</span>
-          <button
-            onClick={onClose}
-            className="px-4 py-2 bg-slate-200 hover:bg-slate-300 active:bg-slate-400 text-slate-800 rounded-lg font-medium transition-colors cursor-pointer"
-          >
-            关闭
-          </button>
+        <div className="p-4 border-t border-slate-200 bg-slate-50/70 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-slate-500">
+          <span>每次进入章节均会自动重新随机抽取 {perChapterQuestions} 题</span>
+          <div className="flex items-center gap-2 w-full sm:w-auto">
+            {onSwitchMode && (
+              <button
+                id="switch-mode-btn"
+                onClick={() => {
+                  onSwitchMode();
+                  onClose();
+                }}
+                className="flex-1 sm:flex-none px-4 py-2 bg-rose-600 hover:bg-rose-700 text-white rounded-lg font-medium transition-colors cursor-pointer"
+              >
+                切换练习模式
+              </button>
+            )}
+            <button
+              onClick={onClose}
+              className="flex-1 sm:flex-none px-4 py-2 bg-slate-200 hover:bg-slate-300 active:bg-slate-400 text-slate-800 rounded-lg font-medium transition-colors cursor-pointer"
+            >
+              关闭
+            </button>
+          </div>
         </div>
       </div>
     </div>

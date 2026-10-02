@@ -1,6 +1,6 @@
 import React from 'react';
 import { Check, X, CheckCircle, XCircle, HelpCircle } from 'lucide-react';
-import { Question, UserAnswerValue } from '../types';
+import { Question, QuizMode, UserAnswerValue } from '../types';
 import { isAnswerCorrect } from '../utils/quizUtils';
 
 interface QuestionCardProps {
@@ -8,14 +8,17 @@ interface QuestionCardProps {
   index: number;
   userAnswer: UserAnswerValue;
   isSubmitted: boolean;
+  /** Full-book papers interleave chapters, so each card shows which chapter it came from. */
+  mode: QuizMode;
   onSelectAnswer: (questionId: string, answer: UserAnswerValue) => void;
 }
 
-export const QuestionCard: React.FC<QuestionCardProps> = ({
+const QuestionCardComponent: React.FC<QuestionCardProps> = ({
   question,
   index,
   userAnswer,
   isSubmitted,
+  mode,
   onSelectAnswer,
 }) => {
   const isCorrect = isSubmitted ? isAnswerCorrect(question, userAnswer) : false;
@@ -108,9 +111,16 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
               判断题
             </span>
           )}
-          <span className="text-[11px] text-slate-400">
-            (5分)
-          </span>
+          {mode === 'full' && (
+            <span className="px-2 py-0.5 text-xs font-semibold rounded-md bg-slate-100 text-slate-600 border border-slate-200">
+              第{question.chapterId}章
+            </span>
+          )}
+          {mode === 'chapter' && (
+            <span className="text-[11px] text-slate-400">
+              (5分)
+            </span>
+          )}
         </div>
 
         {/* Result Tag (when submitted) */}
@@ -344,3 +354,7 @@ export const QuestionCard: React.FC<QuestionCardProps> = ({
     </div>
   );
 };
+
+// A full-book paper mounts 160 of these at once; memoizing keeps answering one
+// question from re-rendering all the others.
+export const QuestionCard = React.memo(QuestionCardComponent);

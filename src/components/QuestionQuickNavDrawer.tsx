@@ -1,20 +1,39 @@
 import React from 'react';
-import { X, Check, AlertTriangle, ListOrdered } from 'lucide-react';
-import { Question, UserAnswerValue } from '../types';
+import { X, ListOrdered } from 'lucide-react';
+import { Question, QuizMode, UserAnswerValue } from '../types';
 import { isAnswerCorrect } from '../utils/quizUtils';
 
 interface QuestionQuickNavDrawerProps {
   isOpen: boolean;
   onClose: () => void;
+  mode: QuizMode;
   questions: Question[];
   userAnswers: Record<string, UserAnswerValue>;
   isSubmitted: boolean;
   onJumpToQuestion: (index: number, questionId: string) => void;
 }
 
+const UNANSWERED = 'bg-white text-slate-700 border-slate-300 hover:bg-slate-50';
+
+const buttonStyle = (
+  isSubmitted: boolean,
+  isAnswered: boolean,
+  isCorrect: boolean,
+  answeredStyle: string
+) => {
+  if (isSubmitted) {
+    return isCorrect
+      ? 'bg-emerald-500 text-white border-emerald-600 shadow-xs'
+      : 'bg-rose-500 text-white border-rose-600 shadow-xs';
+  }
+  if (isAnswered) return answeredStyle;
+  return UNANSWERED;
+};
+
 export const QuestionQuickNavDrawer: React.FC<QuestionQuickNavDrawerProps> = ({
   isOpen,
   onClose,
+  mode,
   questions,
   userAnswers,
   isSubmitted,
@@ -22,10 +41,53 @@ export const QuestionQuickNavDrawer: React.FC<QuestionQuickNavDrawerProps> = ({
 }) => {
   if (!isOpen) return null;
 
+  const renderButton = (
+    q: Question,
+    idx: number,
+    answeredStyle: string,
+    size: 'chapter' | 'full'
+  ) => {
+    const ans = userAnswers[q.id];
+    const isAnswered =
+      ans !== undefined && ans !== null && (Array.isArray(ans) ? ans.length > 0 : true);
+    const isCorrect = isSubmitted ? isAnswerCorrect(q, ans) : false;
+
+    return (
+      <button
+        key={q.id}
+        onClick={() => {
+          onJumpToQuestion(idx, q.id);
+          onClose();
+        }}
+        className={`rounded-xl border flex items-center justify-center font-bold transition-all cursor-pointer ${
+          size === 'full' ? 'h-9 text-xs' : 'h-11 text-sm'
+        } ${buttonStyle(isSubmitted, isAnswered, isCorrect, answeredStyle)}`}
+      >
+        {idx + 1}
+      </button>
+    );
+  };
+
+  const renderSection = (title: string, start: number, end: number, answeredStyle: string) => {
+    const slice = questions.slice(start, end);
+    if (slice.length === 0) return null;
+
+    return (
+      <div>
+        <div className="text-xs font-bold text-slate-400 mb-2 flex items-center justify-between">
+          <span>{`${title} (第 ${start + 1} ~ ${start + slice.length} 题)`}</span>
+        </div>
+        <div className="grid grid-cols-5 gap-2.5">
+          {slice.map((q, i) => renderButton(q, start + i, answeredStyle, 'chapter'))}
+        </div>
+      </div>
+    );
+  };
+
   return (
     <div className="fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 bg-slate-900/60 backdrop-blur-xs transition-opacity animate-in fade-in">
       <div
-        className="bg-white w-full max-w-md rounded-t-2xl sm:rounded-2xl shadow-xl flex flex-col max-h-[80vh] overflow-hidden"
+        className="bg-white w-full max-w-md sm:max-w-lg rounded-t-2xl sm:rounded-2xl shadow-xl flex flex-col max-h-[80vh] overflow-hidden"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Header */}
@@ -38,7 +100,11 @@ export const QuestionQuickNavDrawer: React.FC<QuestionQuickNavDrawerProps> = ({
               <h3 className="font-bold text-slate-900 text-base">
                 {isSubmitted ? '题卡与对错概览' : '题目答题卡速览'}
               </h3>
-              <p className="text-xs text-slate-500">点击题号可直接快速定位对应试题</p>
+              <p className="text-xs text-slate-500">
+                {mode === 'full'
+                  ? `共 ${questions.length} 题 · 点击题号快速定位`
+                  : '点击题号可直接快速定位对应试题'}
+              </p>
             </div>
           </div>
           <button
@@ -77,125 +143,20 @@ export const QuestionQuickNavDrawer: React.FC<QuestionQuickNavDrawerProps> = ({
         </div>
 
         {/* Question Grid */}
-        <div className="p-5 overflow-y-auto space-y-4">
-          {/* Section 1: Single choice (1-10) */}
-          <div>
-            <div className="text-xs font-bold text-slate-400 mb-2 flex items-center justify-between">
-              <span>一、单项选择题 (第 1 ~ 10 题)</span>
+        <div className="p-5 overflow-y-auto">
+          {mode === 'full' ? (
+            // Full-book papers are shuffled across chapters, so the card is one
+            // flat list in display order rather than sections by question type.
+            <div className="grid grid-cols-8 sm:grid-cols-10 gap-2">
+              {questions.map((q, idx) => renderButton(q, idx, 'bg-slate-800 text-white border-slate-800 shadow-xs', 'full'))}
             </div>
-            <div className="grid grid-cols-5 gap-2.5">
-              {questions.slice(0, 10).map((q, idx) => {
-                const ans = userAnswers[q.id];
-                const isAnswered =
-                  ans !== undefined &&
-                  ans !== null &&
-                  (Array.isArray(ans) ? ans.length > 0 : true);
-                const isCorrect = isSubmitted ? isAnswerCorrect(q, ans) : false;
-
-                let btnStyle = 'bg-white text-slate-700 border-slate-300 hover:bg-slate-50';
-                if (isSubmitted) {
-                  btnStyle = isCorrect
-                    ? 'bg-emerald-500 text-white border-emerald-600 shadow-xs'
-                    : 'bg-rose-500 text-white border-rose-600 shadow-xs';
-                } else if (isAnswered) {
-                  btnStyle = 'bg-slate-800 text-white border-slate-800 shadow-xs';
-                }
-
-                return (
-                  <button
-                    key={q.id}
-                    onClick={() => {
-                      onJumpToQuestion(idx, q.id);
-                      onClose();
-                    }}
-                    className={`h-11 rounded-xl border flex items-center justify-center font-bold text-sm transition-all cursor-pointer ${btnStyle}`}
-                  >
-                    {idx + 1}
-                  </button>
-                );
-              })}
+          ) : (
+            <div className="space-y-4">
+              {renderSection('一、单项选择题', 0, 10, 'bg-slate-800 text-white border-slate-800 shadow-xs')}
+              {renderSection('二、多项选择题', 10, 15, 'bg-purple-700 text-white border-purple-700 shadow-xs')}
+              {renderSection('三、判断题', 15, 20, 'bg-teal-700 text-white border-teal-700 shadow-xs')}
             </div>
-          </div>
-
-          {/* Section 2: Multi choice (11-15) */}
-          <div>
-            <div className="text-xs font-bold text-slate-400 mb-2 flex items-center justify-between">
-              <span>二、多项选择题 (第 11 ~ 15 题)</span>
-            </div>
-            <div className="grid grid-cols-5 gap-2.5">
-              {questions.slice(10, 15).map((q, i) => {
-                const idx = 10 + i;
-                const ans = userAnswers[q.id];
-                const isAnswered =
-                  ans !== undefined &&
-                  ans !== null &&
-                  (Array.isArray(ans) ? ans.length > 0 : true);
-                const isCorrect = isSubmitted ? isAnswerCorrect(q, ans) : false;
-
-                let btnStyle = 'bg-white text-slate-700 border-slate-300 hover:bg-slate-50';
-                if (isSubmitted) {
-                  btnStyle = isCorrect
-                    ? 'bg-emerald-500 text-white border-emerald-600 shadow-xs'
-                    : 'bg-rose-500 text-white border-rose-600 shadow-xs';
-                } else if (isAnswered) {
-                  btnStyle = 'bg-purple-700 text-white border-purple-700 shadow-xs';
-                }
-
-                return (
-                  <button
-                    key={q.id}
-                    onClick={() => {
-                      onJumpToQuestion(idx, q.id);
-                      onClose();
-                    }}
-                    className={`h-11 rounded-xl border flex items-center justify-center font-bold text-sm transition-all cursor-pointer ${btnStyle}`}
-                  >
-                    {idx + 1}
-                  </button>
-                );
-              })}
-            </div>
-          </div>
-
-          {/* Section 3: Judge (16-20) */}
-          <div>
-            <div className="text-xs font-bold text-slate-400 mb-2 flex items-center justify-between">
-              <span>三、判断题 (第 16 ~ 20 题)</span>
-            </div>
-            <div className="grid grid-cols-5 gap-2.5">
-              {questions.slice(15, 20).map((q, i) => {
-                const idx = 15 + i;
-                const ans = userAnswers[q.id];
-                const isAnswered =
-                  ans !== undefined &&
-                  ans !== null &&
-                  (Array.isArray(ans) ? ans.length > 0 : true);
-                const isCorrect = isSubmitted ? isAnswerCorrect(q, ans) : false;
-
-                let btnStyle = 'bg-white text-slate-700 border-slate-300 hover:bg-slate-50';
-                if (isSubmitted) {
-                  btnStyle = isCorrect
-                    ? 'bg-emerald-500 text-white border-emerald-600 shadow-xs'
-                    : 'bg-rose-500 text-white border-rose-600 shadow-xs';
-                } else if (isAnswered) {
-                  btnStyle = 'bg-teal-700 text-white border-teal-700 shadow-xs';
-                }
-
-                return (
-                  <button
-                    key={q.id}
-                    onClick={() => {
-                      onJumpToQuestion(idx, q.id);
-                      onClose();
-                    }}
-                    className={`h-11 rounded-xl border flex items-center justify-center font-bold text-sm transition-all cursor-pointer ${btnStyle}`}
-                  >
-                    {idx + 1}
-                  </button>
-                );
-              })}
-            </div>
-          </div>
+          )}
         </div>
 
         {/* Footer */}

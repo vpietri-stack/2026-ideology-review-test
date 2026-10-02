@@ -1,4 +1,12 @@
-import { ChapterData, Question, QuizSession, UserAnswerValue, ChapterProgress } from '../types';
+import {
+  ChapterData,
+  Question,
+  QuizMode,
+  QuizSession,
+  UserAnswerValue,
+  ChapterProgress,
+  FullBookProgress,
+} from '../types';
 
 /**
  * Fisher-Yates shuffle algorithm
@@ -21,26 +29,46 @@ export function sampleRandom<T>(array: T[], count: number): T[] {
 }
 
 /**
- * Generates a quiz session for a chapter according to the exact rules:
- * - 10 randomly picked out of 25 "单项选择题"
- * - 5 randomly picked out of 10 "多项选择题"
- * - 5 randomly picked out of 10 "判断题"
- * Total = 20 questions
+ * How many questions of each type a single chapter contributes to a paper.
+ * Chapter mode draws this once (20 questions); full-book mode draws it from
+ * every chapter and then shuffles the combined result.
  */
-export function generateChapterQuiz(chapter: ChapterData): QuizSession {
-  const selectedSingle = sampleRandom(chapter.singleQuestions, 10);
-  const selectedMulti = sampleRandom(chapter.multiQuestions, 5);
-  const selectedJudge = sampleRandom(chapter.judgeQuestions, 5);
+export const QUIZ_RULES = { single: 10, multi: 5, judge: 5 } as const;
 
-  const questions: Question[] = [
-    ...selectedSingle,
-    ...selectedMulti,
-    ...selectedJudge,
+/**
+ * Draws one chapter's worth of questions according to QUIZ_RULES:
+ * 10 of the 25 "单项选择题", 5 of the 10 "多项选择题", 5 of the 10 "判断题".
+ */
+export function pickChapterQuestions(chapter: ChapterData): Question[] {
+  return [
+    ...sampleRandom(chapter.singleQuestions, QUIZ_RULES.single),
+    ...sampleRandom(chapter.multiQuestions, QUIZ_RULES.multi),
+    ...sampleRandom(chapter.judgeQuestions, QUIZ_RULES.judge),
   ];
+}
+
+export function generateChapterQuiz(chapter: ChapterData): QuizSession {
+  return {
+    mode: 'chapter',
+    chapterId: chapter.chapterId,
+    questions: pickChapterQuestions(chapter),
+    userAnswers: {},
+    submitted: false,
+    score: 0,
+  };
+}
+
+/**
+ * Full-book paper: QUIZ_RULES applied to every chapter (8 x 20 = 160 questions),
+ * then shuffled as one list so consecutive questions are unrelated chapters.
+ */
+export function generateFullBookQuiz(chapters: ChapterData[]): QuizSession {
+  const combined = chapters.flatMap(pickChapterQuestions);
 
   return {
-    chapterId: chapter.chapterId,
-    questions,
+    mode: 'full',
+    chapterId: 0,
+    questions: shuffleArray(combined),
     userAnswers: {},
     submitted: false,
     score: 0,
@@ -79,18 +107,26 @@ export function isAnswerCorrect(question: Question, userAnswer: UserAnswerValue)
 }
 
 /**
- * Computes scores:
- * Total: 100 points (5 points per question * 20 questions)
+ * totalScore is always on a 0-100 scale so the grade bands mean the same thing in
+ * both modes: points (5 per question) for a 20-question chapter paper, percentage
+ * correct for a 160-question full-book paper.
  */
 export function calculateQuizResult(session: QuizSession) {
   let correctCount = 0;
   let singleCorrect = 0;
   let multiCorrect = 0;
   let judgeCorrect = 0;
+  let singleTotal = 0;
+  let multiTotal = 0;
+  let judgeTotal = 0;
 
   const questionResults: Record<string, boolean> = {};
 
   session.questions.forEach((q) => {
+    if (q.type === 'single') singleTotal += 1;
+    if (q.type === 'multi') multiTotal += 1;
+    if (q.type === 'judge') judgeTotal += 1;
+
     const isCorrect = isAnswerCorrect(q, session.userAnswers[q.id]);
     questionResults[q.id] = isCorrect;
     if (isCorrect) {
@@ -101,24 +137,77 @@ export function calculateQuizResult(session: QuizSession) {
     }
   });
 
-  const totalScore = correctCount * 5; // 20 questions * 5 = 100 points
+  const totalQuestions = session.questions.length;
+  const percent =
+    totalQuestions === 0
+      ? 0
+      : Math.round((correctCount / totalQuestions) * 1000) / 10;
 
   return {
-    totalScore,
+    totalScore: session.mode === 'chapter' ? correctCount * 5 : percent,
+    scoreIsPercent: session.mode === 'full',
+    percent,
     correctCount,
-    totalQuestions: session.questions.length,
+    totalQuestions,
     singleCorrect,
-    singleTotal: 10,
+    singleTotal,
     multiCorrect,
-    multiTotal: 5,
+    multiTotal,
     judgeCorrect,
-    judgeTotal: 5,
+    judgeTotal,
     questionResults,
   };
 }
 
 const STORAGE_KEY_PROGRESS = 'quiz_chapter_progress';
 const STORAGE_KEY_WRONG_QUESTIONS = 'quiz_wrong_questions';
+const STORAGE_KEY_FULL_PROGRESS = 'quiz_full_book_progress';
+const STORAGE_KEY_MODE = 'quiz_study_mode';
+
+export function getStoredMode(): QuizMode | null {
+  try {
+    const saved = localStorage.getItem(STORAGE_KEY_MODE);
+    return saved === 'chapter' || saved === 'full' ? saved : null;
+  } catch (e) {
+    console.error('Failed to load stored study mode', e);
+    return null;
+  }
+}
+
+export function saveMode(mode: QuizMode) {
+  try {
+    localStorage.setItem(STORAGE_KEY_MODE, mode);
+  } catch (e) {
+    console.error('Failed to store study mode', e);
+  }
+}
+
+export function getFullBookProgress(): FullBookProgress | null {
+  try {
+    const data = localStorage.getItem(STORAGE_KEY_FULL_PROGRESS);
+    return data ? (JSON.parse(data) as FullBookProgress) : null;
+  } catch (e) {
+    console.error('Failed to load full-book progress', e);
+    return null;
+  }
+}
+
+export function saveFullBookResult(percent: number) {
+  try {
+    const current = getFullBookProgress();
+    localStorage.setItem(
+      STORAGE_KEY_FULL_PROGRESS,
+      JSON.stringify({
+        completedTimes: (current?.completedTimes ?? 0) + 1,
+        lastScore: percent,
+        bestScore: Math.max(current?.bestScore ?? 0, percent),
+        lastCompletedAt: Date.now(),
+      })
+    );
+  } catch (e) {
+    console.error('Failed to save full-book progress', e);
+  }
+}
 
 export function getStoredProgress(): Record<number, ChapterProgress> {
   try {
