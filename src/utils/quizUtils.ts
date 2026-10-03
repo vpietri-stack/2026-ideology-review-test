@@ -36,15 +36,48 @@ export function sampleRandom<T>(array: T[], count: number): T[] {
 export const QUIZ_RULES = { single: 10, multi: 5, judge: 5 } as const;
 
 /**
+ * Returns a copy of the question with its options in a new order and the
+ * answer remapped to wherever the correct text ended up, so the right choice is
+ * not pinned to the same letter every time a paper is drawn.
+ *
+ * Judge questions have no options (they are fixed √ / ×) and pass through as-is.
+ * The copy matters: the bank is module-level data shared by every draw.
+ */
+export function shuffleQuestionOptions(question: Question): Question {
+  if (!Array.isArray(question.options) || question.options.length < 2) {
+    return question;
+  }
+
+  const reordered = shuffleArray(question.options);
+  const letters = 'ABCDEFG'.split('');
+  const newKeyByOldKey: Record<string, string> = {};
+
+  const options = reordered.map((opt, idx) => {
+    newKeyByOldKey[opt.key] = letters[idx];
+    return { key: letters[idx], text: opt.text };
+  });
+
+  const { answer } = question;
+  const shuffledAnswer = Array.isArray(answer)
+    ? answer.map((key) => newKeyByOldKey[key]).sort()
+    : typeof answer === 'string'
+    ? newKeyByOldKey[answer]
+    : answer;
+
+  return { ...question, options, answer: shuffledAnswer };
+}
+
+/**
  * Draws one chapter's worth of questions according to QUIZ_RULES:
  * 10 of the 25 "单项选择题", 5 of the 10 "多项选择题", 5 of the 10 "判断题".
+ * Option order is randomized per draw, so a repeated question is not a giveaway.
  */
 export function pickChapterQuestions(chapter: ChapterData): Question[] {
   return [
     ...sampleRandom(chapter.singleQuestions, QUIZ_RULES.single),
     ...sampleRandom(chapter.multiQuestions, QUIZ_RULES.multi),
     ...sampleRandom(chapter.judgeQuestions, QUIZ_RULES.judge),
-  ];
+  ].map(shuffleQuestionOptions);
 }
 
 export function generateChapterQuiz(chapter: ChapterData): QuizSession {
